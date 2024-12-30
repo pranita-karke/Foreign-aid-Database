@@ -1,0 +1,874 @@
+﻿_id,project_title,start_actual_isodate,donors_iso2,ad_sector_names,status,transactions_start_year,transactions_end_year,total_commitments,total_disbursements
+1,Energy Access and Efficiency Improvement Project (EAEIP),2010-06-04T00:00:00,Asian Development Bank,Energy generation and supply,Implementation,2010,2013,69125944,16058113
+2,Introduction of Clean Energy by Solar Electricity Generation System,,Japan International Cooperation Agency,Water supply and sanitation,Implementation,2010,2012,7492575,8196360
+3,Urban and Environmental Improvement Project,2003-10-02T00:00:00,Asian Development Bank,Other,Completion,2003,2011,36126375,25945175
+4,Community based Water Supply and Sanitation Sector Project,2004-01-01T00:00:00,Asian Development Bank,Water supply and sanitation,Completion,2003,2011,28901100,24189510
+5,Biogas Support Program - Phase IV,2003-07-01T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau|SNV Netherlands Development Organisation|International Development Association|World Bank Trust Funds,Energy generation and supply,Completion,2003,2012,28095505,21791880
+6,Secondary Towns Integrated Urban Environmental Improvement Project,,Organization of the Petroleum Exporting Countries|Asian Development Bank,Other,Implementation,2010,2013,71492230,3821246
+7,Road Sector Development Project,2008-04-01T00:00:00,International Development Association,Transport and storage,Implementation,2007,2013,121453931,152951898
+8,Syaprubesi Rasuwagadhi Road Project,2007-12-17T00:00:00,China,Transport and storage,Completion,2007,2013,33975869,10074474
+9,Community-Managed Irrigated Agriculture (Sector) Project CMIASP,2006-07-01T00:00:00,OPEC Fund for Inernational Development|Asian Development Bank,Agriculture|Agriculture,Implementation,2005,2013,30606824,15489246
+10,Bagmati Irrigation Project,,Saudi Development Fund,Agriculture,Implementation,2007,2013,16455302,1930295
+11,Rural Access Improvement and Decentralization Project(RAIDP),2010-07-14T00:00:00,International Development Association,Other,Implementation,2005,2012,78947003,38292463
+12,Emergency Peace Support Project,2008-09-19T00:00:00,International Development Association,"Conflict prevention and resolution, peace and security",Implementation,2008,2013,51071395,25773298
+13,Skills for Employment Project,2006-02-28T00:00:00,Asian Development Bank,"Education, level unspecified",Completion,2005,2012,22671722,16560739
+14,Country Programme Nepal (2002-2012),2002-01-01T00:00:00,World Food Programme,"Education, level unspecified",Completion,2002,2012,36933522,19954645
+15,The Establishment of the Korea-Nepal Institute of Technology in Butwal,2008-09-05T00:00:00,Korea International Cooperation Agency,"Education, level unspecified",Completion,2008,2012,5914424,5365685
+16,Establishment of the ICT Center to Enhance ICT Capabilities in Nepal,2010-09-23T00:00:00,Korea International Cooperation Agency,"Education, level unspecified",Implementation,2010,2013,5106587,4707776
+17,Rural Finance Sector Development-Cluster Program  (Sub Program I),2006-11-21T00:00:00,Asian Development Bank,Banking and financial services,Completion,2006,2012,71047282,65411490
+18,Second Small town Water Supply and Sanitation Sector Project,2010-01-24T00:00:00,Asian Development Bank,Water supply and sanitation,Implementation,2009,2013,46676909,9925912
+19,Project for Agriculture Commercialization and Trade (PACT),2013-02-13T00:00:00,International Development Association,Agriculture,Implementation,2009,2013,62015847,6300000
+20,Crop Protection and Pesticide Development - National Integrated Pest Management Program (IPM) Phase II,2008-10-27T00:00:00,South Asian Association For Regional Cooperation|Norway,Agriculture,Implementation,2008,2008,-,-
+21,Avian Influenza Control Project (Animal Health Component),,International Development Association,Agriculture,Completion,2007,2012,9085631,8947855
+22,Community Livestock Development Program (CLDP),2005-12-02T00:00:00,Asian Development Bank,Agriculture,Completion,2004,2011,23424704,20713876
+23,Irrigation and Water Resources Management Project (IWRMP),2008-04-24T00:00:00,International Development Association,Agriculture|Agriculture|Energy generation and supply,Implementation,2008,2013,66338513,52469446
+24,Kathmandu Valley Water Services Sector Development Project,2004-07-08T00:00:00,Asian Development Bank,Water supply and sanitation,Completion,2004,2013,11989801,2624389
+25,Western Upland Poverty Alleviation Project (WUPAP)III Phase,2003-01-01T00:00:00,International Fund for Agricultural Development,General budget support,Implementation,2002,2013,24839123,14651387
+26,High Value Agriculture Project in Hill and Mountain Areas (HVAP),,International Fund for Agricultural Development,Agriculture,Implementation,2010,2013,14477047,2339841
+27,Decentralized Rural Infrastructure and Livelihood Project (DRILP),2005-10-31T00:00:00,Swiss Agency for Development and Cooperation|Asian Development Bank,Other,Completion,2004,2013,52180300,43084636
+28,Town Development Fund Project (phase III),2009-05-26T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau,Other,Implementation,2009,2013,10583904,1335258
+29,Leasehold Forestry and livestock Programme,2005-09-07T00:00:00,International Fund for Agricultural Development,Forestry,Implementation,2005,2013,16223693,12510832
+30,Biodiversity Sector Programme for Siwaliks and Terai (BISEP-ST),,SNV Netherlands Development Organisation,Forestry,Completion,2001,2010,14628064,16967629
+31,Flour Fortification in Chakki Mills,2010-03-11T00:00:00,Asian Development Bank,Health,Completion,2010,2013,1838371,125393
+32,Second Rural Water Supply and Sanitation Project,2008-08-26T00:00:00,International Development Association|Asian Development Bank,Water supply and sanitation,Completion,2004,2012,57377066,90306309
+33,Gender Equality and Empowerment of Women Project,2007-01-01T00:00:00,Asian Development Bank,Other social infrastructure and services,Implementation,2006,2013,10981032,7277875
+34,Commercial Agriculture Development Project (CADP),2007-08-06T00:00:00,Asian Development Bank,Agriculture,Implementation,2007,2013,19208523,14976866
+35,Information and Communication Technology Development Project (ICTDP),2010-05-10T00:00:00,Asian Development Bank,Communications,Implementation,2008,2013,26099645,2858549
+36,Detailed Engineering Study for the Upper Seti Hydropower Project,2010-10-01T00:00:00,Ministry of Energy|Asian Development Bank,Energy generation and supply,Implementation,2010,2013,3012886,1859154
+37,Upper Trishuli 3A Hydroelectric Project,2011-02-28T00:00:00,China,Energy generation and supply,Implementation,2011,2013,129241702,50985829
+38,Crisis Prevention and Recovery Support to Nepal,2008-05-30T00:00:00,United Nations Development Programme,"Conflict prevention and resolution, peace and security",Implementation,2008,2013,3056823,3671328
+39,Enhancing Access to Justice for the Consolidation of Peace in Nepal,2008-08-20T00:00:00,United Nations Development Programme,Other social infrastructure and services,Completion,2008,2012,3383995,3073205
+40,Strategic Program for Climate Resilience(SPCR) Pilot Program for Climate Change(PPCR),2013-04-30T00:00:00,World Bank Trust Funds|Asian Development Bank|Climate Investment Fund,General environmental protection,Implementation,2013,2013,32020329,-
+41,TA:Increasing Access to Energy in Rural Nepal,2010-03-05T00:00:00,Asian Development Bank,Energy generation and supply,Completion,2010,2010,952889,-
+42,TA:Preparing the Integrated Urban Development Project,2010-12-13T00:00:00,Asian Development Bank,Unspecified,Unspecified,2010,2010,817054,-
+43,Research and Development technical Assistance for effective Deployment of Distributed Wind Systems,2010-06-17T00:00:00,Asian Development Bank,Energy generation and supply,Completion,2009,2010,4005313,-
+44,TA:Strengthened the TDF Capacity for PPP,2011-05-29T00:00:00,Asian Development Bank,Other,Implementation,2011,2012,310000,256171
+45,Town Development Fund Project (phase II),2000-12-15T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau,Other,Completion,2000,2013,8240267,5741469
+46,Kathmandu Valley Water Supply Improvement Project,2012-01-01T00:00:00,Asian Development Bank,Water supply and sanitation,Implementation,2012,2013,78547497,9921863
+47,Road Improvement Project,2007-09-14T00:00:00,India,Transport and storage,Implementation,2007,2013,53357010,41050561
+48,Strengthening Decentralized Support for Vulnerable and Conflict-Affected Families and Children (JFPR Project No. 9110-NEP),2008-02-10T00:00:00,Japan Fund for Poverty Reduction,Other social infrastructure and services,Completion,2008,2010,2087971,274806
+49,Nepal Peace Trust Fund (NPTF),2007-02-27T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau|Swiss Agency for Development and Cooperation|Department for International Development|Denmark|Finland|Norway|Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit|European Union,"Conflict prevention and resolution, peace and security",Implementation,2007,2013,173079570,71045982
+50,Community Support Programme,2011-06-16T00:00:00,Department for International Development,Other,Implementation,2011,2013,37350885,-
+51,Community Irrigation Project,,Asian Development Bank,Other,Implementation,2011,2013,26400000,2191494
+52,Japan Fund for Poverty Reduction(JFPR) Capacity Building for the Promotion of Legal Identity among the Poor in Nepal,,Japan Fund for Poverty Reduction,Other,Implementation,2010,2010,2042635,-
+53,Manmohan Memorial Polytechnic,2003-06-30T00:00:00,India,"Education, level unspecified",Implementation,2003,2005,5201128,-
+54,Enhancing Awareness and Garnering Support for Elimination of Doping in Sports in Nepal,2010-11-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Implementation,2010,2010,20426,-
+55,Khimti Neighbourhood Development Project - KIND,2007-07-05T00:00:00,United Nations Development Programme|Norway,Energy generation and supply,Completion,2006,2012,4314918,3928221
+56,Middle Marsyangdi Hydrolectric Project,1999-02-23T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau,Energy generation and supply,Completion,1999,2013,76325386,210803929
+57,Chameliya Hydro Electric Project,2009-05-07T00:00:00,Economic Development Cooperation Fund Korea,Energy generation and supply,Implementation,2008,2013,46979361,47918619
+58,Rehabilitation of Devighat hydro Power plant,2008-04-03T00:00:00,India,Energy generation and supply,Completion,2007,2012,4268560,1771464
+59,Panchthar Substation & Rural Electrification Project,,India,Energy generation and supply,Implementation,2007,2007,320142,-
+60,Vertical Shaft Brick Kiln project/Clean Building Technology For Nepal Phase IV,2008-07-03T00:00:00,Ministry of Industry,General environmental protection|Industry,Completion,2007,2008,3164089,-
+61,Tax Governance Support Project (TGSP),,Denmark,"Government and civil society, general",Pipeline/identification,-,-,-,-
+62,Rural Finance Sector Development Cluster Program (Sub Program 2),2011-03-23T00:00:00,Ministry of Finance|Asian Development Bank,Banking and financial services,Implementation,2010,2013,75952491,35330856
+63,"EC-Nepal, WTO Assistance Programme",2007-03-20T00:00:00,European Union,Business and other services,Implementation,2007,2010,3039348,1225270
+64,Capital Markets and Infrastructure Finance Support Project,,Asian Development Bank,Banking and financial services,Implementation,2011,2012,5000000,497622
+65,Federalism Support Programme Phase II,,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,"Conflict prevention and resolution, peace and security",Completion,2008,2011,1565836,1320878
+66,Electricity Transmission Expansion and Supply Improvement Project (ETESIP),2012-03-23T00:00:00,Norway|Asian Development Bank,Energy generation and supply,Implementation,2011,2013,99088710,5174770
+67,Mountain Agribusiness and Livelihood Improvement (HIMALI) Project,,Asian Development Bank,Agriculture,Implementation,2011,2013,20000000,3625018
+68,Budhi Ganga Hydropower Project,2013-03-22T00:00:00,Kuwait fund for Arab Economic development,Energy generation and supply,Implementation,2013,2013,18592449,-
+69,Public-Private Partnerships for Urban Environment (PPPUE),,UNOPS|United Nations Development Programme|Asian Development Bank,Other,Completion,2005,2013,3444987,3115987
+70,GEF Small Grants Programme - SGP,1998-01-01T00:00:00,Global Environment Facility,General environmental protection,Implementation,1998,2012,5388739,5267736
+71,Disaster Risk Reduction at the National Level in Nepal - DRRNLN,2007-11-15T00:00:00,United Nations Development Programme|European Union,Unallocated/ unspecified|Other,Completion,2007,2012,3311683,1614248
+72,Enhancing Access to Financial Services - EAFS,2008-11-01T00:00:00,United Nations Capital Development Fund|United Nations Development Programme,"Banking and financial services|Government and civil society, general",Implementation,2008,2012,3131957,2185352
+73,Strengthening the Capacity of the National Human Rights Commission of Nepal (SCNHRC),2009-07-19T00:00:00,Swiss Agency for Development and Cooperation|Department for International Development|Denmark|Finland|United Nations Development Programme|United Nation Office of High Commissioner for Human Rights,"Government and civil society, general",Implementation,2009,2012,1482360,1659566
+74,Livelihood Recovery for Peace (LRP) Project,2009-08-11T00:00:00,United Nations Development Programme,"Government and civil society, general",Implementation,2009,2013,11130537,9063803
+75,Support to National HIV/AIDS Programme - SNHP,2006-10-02T00:00:00,"Department for International Development|Global Fund to Fight AIDS, Tuberculosis and Malaria|United Nations Development Programme|AusAid",Health,Completion,2006,2012,33369490,30752756
+76,Strengthening Regional Cooperation for Wildlife Protection in Asia Project,2011-06-27T00:00:00,World Bank Trust Funds,Forestry,Implementation,2011,2013,3000000,795343
+77,Load Dispatch Center Extension,1997-12-04T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau,Energy generation and supply,Completion,1997,2013,-,25537729
+78,Poverty Alleviation Fund II,2004-12-13T00:00:00,International Development Association|International Fund for Agricultural Development|World Bank Trust Funds,General budget support,Implementation,2004,2013,337814279,145657022
+79,"Human Rights and Good Governance Program, Phase III (2009-13)",2008-10-29T00:00:00,Denmark,Other social infrastructure and services,Implementation,2008,2012,18005625,11346507
+80,Financial Sector Technical Assistance Project,2003-04-30T00:00:00,Department for International Development|International Development Association,Banking and financial services,Completion,2003,2011,28213508,21806153
+81,The Food AID Project (KR 2008),2009-02-25T00:00:00,Japan International Cooperation Agency,Industry,Completion,2009,2010,6941413,7396923
+82,The Food AID Project (KR 2009),2010-02-09T00:00:00,Japan International Cooperation Agency,Industry,Completion,2010,2011,7734238,8290564
+83,Assistance for Feasibility Studies of Small and Medium Size Hydro Power Projects,2004-01-16T00:00:00,Norway,Energy generation and supply,Implementation,2004,2013,1719455,1448635
+84,Nepal Enhanced Capacities for Trade and Development Project (NECTRADE),2010-03-30T00:00:00,UNOPS,Business and other services,Implementation,2010,2010,993946,-
+85,Small Development Projects (India),2003-11-07T00:00:00,India,Other,Implementation,2003,2013,141369844,29254793
+86,Nepal-India Cross border Transmission Projects.,,India,Energy generation and supply,Implementation,2007,2007,14086250,-
+87,Legal and Judicial Reforms to Strengthen Creditor Rights Project.,2007-08-22T00:00:00,International Development Association,Other social infrastructure and services,Completion,2007,2007,432191,-
+88,Direct Aid Program,2009-12-03T00:00:00,AusAid,Other social infrastructure and services,Implementation,2009,2013,444578,434669
+89,Nepal Water for Health Program,2010-05-26T00:00:00,AusAid,Water supply and sanitation,Implementation,2009,2013,5311760,7223029
+90,"PCR5, IR 2 - National Governance",2008-01-01T00:00:00,United Nations Children's Fund,"Government and civil society, general",Implementation,2008,2012,1341129,591677
+91,Australian Youth Ambassadors for Development (AYAD) and Volunteering for International Development from Australia (VIDA),1999-08-01T00:00:00,AusAid,"Other social infrastructure and services|Other|Education, level unspecified|Other social infrastructure and services|Health",Implementation,1999,2013,3439510,2920470
+92,Reintegration of Children/Youth formerly associated with Armed Forces and Armed Groups and Children Affected by Armed Conflict in Nepal â Phase IV,2011-03-22T00:00:00,AusAid,Other social infrastructure and services,Implementation,2011,2013,1240303,1181011
+93,Towards the Centre of Excellence â Tilganga Institute of Ophthalmology (TIO),2011-04-11T00:00:00,AusAid,Health,Implementation,2011,2011,3011089,3026602
+94,Australian Scholarships,,AusAid,"Education, level unspecified|Health",Implementation,2011,2013,10820827,5885175
+95,Modernization of Customs Administration,2011-07-21T00:00:00,Korea International Cooperation Agency,Banking and financial services,Implementation,2010,2013,5000000,3254012
+96,Nepal Public Financial Management (Multi Donor Trust Fund),2011-10-31T00:00:00,World Bank Trust Funds,Banking and financial services,Implementation,2011,2012,4300000,583008
+97,Implementation of Stop TB Strategy (2010-2015),2010-07-16T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria|Norway",Health,Implementation,2010,2013,29008663,19575444
+98,Scaling Up Coverage and Quality of HIV & AIDS Prevention targeted to Most at Risk Population and Treatment Care and Support Services to PLHA,2009-01-01T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria|United Nations Development Programme",Health,Completion,2008,2012,12363839,11873457
+99,Economic and technical cooperation (small projects),2010-02-28T00:00:00,China,"Government and civil society, general",Implementation,2010,2012,95178549,15375422
+100,Institutional Strengthening and Professional Development Support for the Election commission of Nepal,2008-08-01T00:00:00,European Union|Department for International Development|Denmark|United Nations Development Programme|Japan International Cooperation Agency|Norway|AusAid,"Government and civil society, general",Implementation,2008,2013,51546166,14353181
+101,Support to the Local Governance and Community Development Programme (UN joint project),2009-04-01T00:00:00,Department for International Development|Denmark|United Nations Development Programme|United Nations Development Fund for Women|United Nations Capital Development Fund|United Nations Children's Fund,Other,Implementation,2009,2013,4755217,1316432
+102,Strengthening the role of civil society in promoting human rights and democratic reform (CTR 158067),2009-01-01T00:00:00,European Union,Other social infrastructure and services,Completion,2008,2011,291738,169329
+103,Realisation of the rights and the sustainable reintegration of children and youth formerly associated with armed forces and armed groups (CAAFAG) in Nepal (CTR 234074),2010-12-20T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2013,403045,344810
+104,Action for Social Inclusion of Children Affected by Armed Conflict in Nepal (ASIC) - CTR 204215,2010-01-01T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2009,2013,593103,329841
+105,Rehabilitating Children and Supporting Families and Communities Affected by Armed Conflict in Nepal (CTR 154908),2009-06-01T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2009,2012,846711,568078
+106,Capacity Building Programme for Protecting Human Rights and Fundamental Freedoms in Nepal (CTR 159300),2009-01-01T00:00:00,European Union,Other social infrastructure and services,Completion,2008,2012,1021083,662450
+107,Janajatis Social and Economic Empowerment Project (JANSEEP) - Nepal (CTR 119627),2007-02-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2007,2013,1115235,815455
+108,Empowering Women in the Churia to Improve Their Livelihoods,2008-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2008,2012,1227622,408933
+109,Promoting Rights of Human rights defenders in Nepal (CTR 234037),2010-12-15T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2013,272641,264938
+110,WIDOWS - Influencing policy at national and international level through advocacy for the rights of single women,2009-04-24T00:00:00,European Union,Other social infrastructure and services,Completion,2009,2012,282236,138166
+111,Prevention of torture in Nepal (CTR 148079),2008-12-01T00:00:00,European Union,Other social infrastructure and services,Suspended,2008,2011,793403,467880
+112,Enabling the effective participation of persons with disabilities and their organisations in the peace-building process in Nepal,2010-01-01T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2009,2012,741378,619132
+113,Community peacebuilding programme through women group empowerment,2010-01-01T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2009,2012,741378,655303
+114,Women and youth as pillars of sustainable peace,2008-01-01T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2008,2012,1227622,746858
+115,Sahaastitwa - Strengthening local cultures to build harmony in Nepal,2010-04-10T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2012,1240299,1027772
+116,Enhancing cultural diversity for dignity and development of indigenous communities in Nepal,2010-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2012,1230668,703562
+117,Shubha Yatra: promotion and protection of human rights,2011-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2012,820444,450527
+118,Renewable energy project,2004-08-17T00:00:00,European Union,Energy generation and supply,Implementation,2004,2011,21426603,2684091
+119,Community based land and forest management in the Sagarmatha National Park,2009-07-20T00:00:00,European Union,General environmental protection,Implementation,2009,2012,734955,209034
+120,State and non-state partnerships for inclusive justice (CTR - 250699),2011-04-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2011,2013,707914,451881
+121,Improving food security condition of socio-economically excluded Dalit communities in Far Western Nepal,2009-09-12T00:00:00,European Union,Agriculture,Implementation,2009,2012,1628441,1085134
+122,Improving food security in communities vulnerable to food price volatility,2009-07-12T00:00:00,European Union,Agriculture,Implementation,2008,2012,2060305,1517281
+123,Food Security Initiative in Nepal,2009-01-12T00:00:00,European Union,Agriculture,Implementation,2008,2012,2038477,1954813
+124,HELP Food Security (Helping to Enhance Local Productivity for Food Security),2009-07-12T00:00:00,Practical Action|European Union,Agriculture,Implementation,2008,2012,2776825,1528938
+125,Freed Kamaiyas Livelihood Development Project,2008-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2008,2012,1227622,924384
+126,Access for Opportunities (improved socio-economic opportunities for marginalized communities)CTR - 118644,2007-01-02T00:00:00,European Union,Other social infrastructure and services,Completion,2007,2013,1126269,1041179
+127,UNESCAP Technical Assistance to EC-Nepal WTO Assistance Programme,2008-05-01T00:00:00,European Union,Business and other services,Implementation,2008,2011,493610,295641
+128,UNIDO Technical Assistance to EC-Nepal WTO Assistance Programme,2008-01-01T00:00:00,European Union,Business and other services,Implementation,2008,2012,2455245,1398099
+129,PRISM - Poverty Reduction of Informal workers in Solid waste Management sector (CTR - 236672),2011-05-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2011,2013,1925355,839772
+130,Skill development and employment for the informal sector in Nepal,2011-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2012,2051113,1164572
+131,Establishment and operation of a safe birthing/new born care (SBNBCC) centre and providing outreach mother and child health services in Goljung Village of Rasuwa District (CTR 161797),2009-01-01T00:00:00,European Union,Health,Implementation,2008,2012,291738,162157
+132,Equal access of Dalit women to health services (CTR 161787),2009-01-01T00:00:00,European Union,Health,Implementation,2008,2012,583476,453238
+133,"Sustainable Water Supply, Hygiene, and Health Improvements for Highly Vulnerable Communities in Humla District, Mid-Western Nepal(CTR 161789)",2009-01-15T00:00:00,European Union,Health,Implementation,2008,2013,689281,508393
+134,"SWASHTHA - Strengthening Water, Air, Sanitation and Hygiene Treasuring Health",2008-12-27T00:00:00,European Union,Health,Implementation,2008,2012,733135,445963
+135,Improving maternal and child health in Nepal (CTR 161832),2009-02-01T00:00:00,European Union,Health,Completion,2009,2013,663183,525602
+136,Support to Health Workforce through Civil Society Engagement (CTR 229739),2011-02-01T00:00:00,European Union,Health,Implementation,2011,2013,1097544,954160
+137,Tackling Human Resources for Health (HRH) Crisis in Nepal through Informed Policy Decisions and Actions (CTR 230024),2011-01-01T00:00:00,European Union,Health,Implementation,2010,2013,1093927,901159
+138,"Human Resource for Health mainstreamed in health system, through strengthened advocacy capacity of CSOs (CTR 230000)",2011-02-07T00:00:00,European Union,Health,Implementation,2010,2012,1669046,1020711
+139,Education for vulnerable and marginalized children in Nepal (CTR 216571),2010-03-01T00:00:00,European Union,"Education, level unspecified",Implementation,2010,2013,695436,654004
+140,Access to education for vulnerable and marginalized groups in Karnali (CTR 216469),2010-01-01T00:00:00,European Union,"Education, level unspecified",Implementation,2009,2013,889654,335360
+141,Enhancing the Capacity of School Aiming to Provide Quality Educational Opportunities for All: Special Focus on Poor and Marginalised Communities in Western Terai Districts (CTR 216441),2010-01-01T00:00:00,European Union,"Education, level unspecified",Implementation,2009,2013,1037929,365397
+142,Promoting quality and inclusive education for out of reach children in Nepal,2010-03-01T00:00:00,European Union,"Education, level unspecified",Implementation,2010,2012,973610,510778
+143,Nepal District Health Programme,,Kreditanstalt fÃ¼r Wiederaufbau,Health,Implementation,2008,2012,5370849,3151744
+144,Strengthening participation of CSOs to improve economic and public finance governance in Nepal,,European Union,General budget support,Implementation,2011,2012,552105,340462
+145,Protecting and mainstreaming informal sector safety nets (PROMISE) - CTR 236676,2011-03-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2011,2013,1932366,1197880
+146,Action for sustainable employment through skill enhancement (CTR 250679),2011-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2013,546963,257479
+147,Raising opportunities for rural incomes,2011-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2010,2011,683704,235294
+148,Alleviate unemployment by upgrading skills (CTR 251023),2011-05-09T00:00:00,European Union,"Education, level unspecified",Implementation,2011,2013,719321,410782
+149,Support to Stability and Peace building,2011-07-15T00:00:00,European Union,"Conflict prevention and resolution, peace and security",Implementation,2011,2013,-,7590895
+150,Enhancement of sustainable production of lokta handmade paper in Nepal (CTR 152937),2008-12-15T00:00:00,European Union,Industry,Suspended,2008,2011,1827854,497277
+151,Establishment of a business service centre for women's micro and small enterprises in Nepal (CTR 133415),2007-12-19T00:00:00,European Union,Other social infrastructure and services,Completion,2007,2013,759836,691452
+152,Scaling Up Coverage and Quality of HIV & AIDS Prevention targeted to Most at Risk Population and Treatment Care and Support Services to PLHA / Save the Children,2008-11-01T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2008,2011,6667549,4481492
+153,Scaling up coverage and quality of HIV AIDS prevention targeted to most at risk populations and treatment care and support services to PLWHA / Family Planning Association,2008-11-16T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2008,2013,6646542,6467304
+154,Scaling up coverage and quality of HIV AIDS prevention targeted to most at risk populations and treatment care and support services to PLHA,2011-07-01T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2011,2011,2229104,241388
+155,Scaling up coverage and quality of malaria prevention and control in targeted high risk districts in Nepal / PSI,2008-09-16T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2007,2010,7496493,6674569
+156,Scaling up coverage and quality of malaria prevention and control in targeted high risk districts in Nepal (2008-2013),2008-09-16T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2008,2010,2194048,1717682
+157,Conservation and sustainable Use of Wetlands in Nepal (CSUWN ),2008-03-14T00:00:00,Global Environment Facility|United Nations Development Programme,Forestry,Completion,2007,2012,518737,1549292
+158,Micro-Enterprise Development Programme (MEDEP) III,,Canadian International Development Agency|Himal Power Ltd|AusAid,Industry,Completion,2008,2013,7924791,12665746
+159,Hill Maize Research Project (HMRP) - Phase IV,2011-01-31T00:00:00,U.S. Agency for International Development|Swiss Agency for Development and Cooperation,Agriculture,Implementation,2010,2013,3636000,2713852
+160,District Roads Support Program (DRSP) Phase IV,2010-07-17T00:00:00,Swiss Agency for Development and Cooperation,Other|Transport and storage,Implementation,2010,2013,23686406,22593060
+161,Social Safety Nets Project,2009-02-02T00:00:00,International Development Association|World Bank Trust Funds,Agriculture|Other,Implementation,2008,2013,70633930,51458241
+162,Power Development Project,2004-03-25T00:00:00,International Development Association,Energy generation and supply,Implementation,2003,2012,189489765,113100646
+163,Urban governance and Development Program:Emerging Town Project,2011-10-02T00:00:00,International Development Association,Other,Implementation,2011,2013,24501772,10226259
+164,Kabeli Transmission Project,2011-09-21T00:00:00,International Development Association,Energy generation and supply,Implementation,2011,2013,36752658,5790805
+165,Nepal - India Electricity Transmission and Trade Project,2011-09-29T00:00:00,International Development Association,Energy generation and supply,Pipeline/identification,2011,2011,97241407,-
+166,Enhanced Vocational Education and Training Project (EVENT),2011-08-23T00:00:00,World Bank Trust Funds,"Education, level unspecified",Implementation,2011,2012,50000000,5968627
+167,REDD-Forestry and Climate Change,2011-08-26T00:00:00,World Bank Trust Funds,Forestry,Implementation,2009,2012,3406992,1030192
+168,Second Higher Education Project (including JSDF Secondary School Stipend project),2007-07-27T00:00:00,International Development Association|World Bank Trust Funds,"Education, level unspecified",Implementation,2007,2013,32767745,49388715
+169,Sapta Kosi High Dam Multi-Purpose Project,2004-06-21T00:00:00,India,Energy generation and supply,Suspended,2004,2004,7551029,-
+170,SASEC Information Highway Project,2009-07-02T00:00:00,Asian Development Bank,Communications,Implementation,2009,2013,9314682,622480
+171,Air Transport Capacity Enhancement Project,,Asian Development Bank,Transport and storage,Implementation,2010,2013,76728588,9727287
+172,Emergency Flood Damage Rehabilitation Project,2009-11-01T00:00:00,Asian Development Bank,Agriculture|Transport and storage|Agriculture,Implementation,2009,2013,26495097,18553248
+173,"Sustainable Soil Management Program(SSMP), Phase IV",2011-01-31T00:00:00,Swiss Agency for Development and Cooperation,Agriculture,Implementation,2010,2013,7235142,4549128
+174,Avian Influenza Control Project (Human Health Component),2007-03-27T00:00:00,International Development Association,Health,Completion,2007,2012,7985140,8048853
+175,Raising Incomes of Small and Medium Farmers Project (RISMFP) - Crops Diversification,,Asian Development Bank,Agriculture,Implementation,2010,2013,20528483,2523372
+176,Project for the development of Community Based Health Insurance (CBHI) in Nepal,2010-11-04T00:00:00,Korea International Cooperation Agency,Health,Completion,2010,2013,1051020,1019446
+177,Road Connectivity Sector I Project,2006-11-20T00:00:00,OPEC Fund for Inernational Development|Asian Development Bank,Transport and storage,Implementation,2006,2013,71067082,58099777
+178,Rahughat Hydropower Project,,India,Energy generation and supply,Implementation,2007,2013,101509624,5011241
+179,Bharatpur-Madi 33kv Sub Transmission Line & Rural Electrification Project,,India|DRF UK,Energy generation and supply,Implementation,2007,2007,1600710,-
+180,Sector Program Health and Family Planning,2008-07-09T00:00:00,Kreditanstalt fÃ¼r Wiederaufbau,Health,Implementation,2007,2013,16818600,8648780
+181,Expansion of Malaria prevention and control to at-risk populations in Nepal 2010-2016,,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2010,2010,13588980,6172866
+182,Project for Construction of Primary School,2005-06-03T00:00:00,Japan,"Education, level unspecified",Completion,2005,2007,6062460,5136346
+183,Nepal Health Sector Program II (NHSP II) - GAVI,,Global Alliance for Vaccines and Immunisation,Health,Implementation,2010,2013,14850662,2331183
+184,Improving Livelihood for Poor Farmers and Disadvantaged Groups in the Eastern Development Region (JFPR Project No. 9101-NEP),2007-07-20T00:00:00,Japan Fund for Poverty Reduction,Agriculture,Completion,2007,2012,1067140,782582
+185,Local Peace Committee,2008-12-19T00:00:00,Asian Development Bank,"Conflict prevention and resolution, peace and security",Implementation,2008,2008,4697936,-
+186,Energy Sector Assistance Programme Phase II (ESAP II),2007-03-15T00:00:00,Department for International Development|Denmark|Norway|Kreditanstalt fÃ¼r Wiederaufbau,Energy generation and supply,Completion,2007,2012,70715116,51284213
+187,Sub Regional Transport Enhancement Project,,Asian Development Bank,Transport and storage,Implementation,2010,2013,50044561,11877291
+188,Kathmandu Sustainable Urban Transport Project,2011-01-26T00:00:00,Global Environment Facility|Asian Development Bank,Transport and storage,Implementation,2010,2013,23000071,3063303
+189,Development of Railway Infrastructure Project,2010-02-16T00:00:00,India,Transport and storage,Implementation,2010,2010,-,-
+190,Transport Project Preparatory Facility Nepal,,Asian Development Bank,Transport and storage,Implementation,2011,2013,12000000,1870065
+191,Technical Assistance for financing the Preparation of a Feasibility Study and Preliminary Engineering Designs for the Sitapaila-Dharke Road Project,,Kuwait fund for Arab Economic development,Transport and storage,Implementation,-,-,-,-
+192,Health Services Improvement in Tikapur,2011-12-09T00:00:00,Korea International Cooperation Agency,Health,Implementation,2010,2013,5500000,3003743
+193,Strengthening Public Procurement Management and Portfolio Performance,,Asian Development Bank,Banking and financial services,Implementation,2010,2013,229796,199105
+194,"Nepal Peace Support Programme, phase III",2011-05-24T00:00:00,Denmark|International Development Association,"Conflict prevention and resolution, peace and security",Implementation,2011,2012,7596042,3592029
+195,Master Plan for the Lumbini World Peace City Preservation and Development,2012-01-20T00:00:00,Korea International Cooperation Agency,Tourism,Implementation,2011,2013,1963687,1660223
+196,Preparation of the Agricultural Development Strategy,2010-12-14T00:00:00,Asian Development Bank,Agriculture,Implementation,2010,2013,2042635,1684879
+197,TA 7585 :Support to Build Capacity In TEVT,2010-08-20T00:00:00,Asian Development Bank,"Education, level unspecified",Implementation,2010,2013,229796,140779
+198,TA 7298: Himali Project,2009-08-23T00:00:00,Asian Development Bank,Agriculture,Implementation,2009,2013,1482584,1018641
+199,TA 7173-NEP:Strengthening Capacity for Managing Climate Change and the Environment,2009-01-13T00:00:00,Asian Development Bank,General environmental protection,Implementation,2008,2013,1331081,1124677
+200,TA 7025: Education Sector Program (Subprogram III),2008-01-20T00:00:00,Asian Development Bank,"Education, level unspecified",Implementation,2007,2012,640284,452166
+201,TA 7760: Support for the Implementation of School Sector Reform,2010-12-16T00:00:00,Asian Development Bank,"Education, level unspecified",Implementation,2010,2013,229796,358094
+202,TA 7524-NEP: Supporting Government Planning in building Climate Resilence,,International Finance Cooperation|Asian Development Bank|World Bank Trust Funds,General environmental protection,Implementation,2010,2012,229796,210012
+203,Capacity Building in Road Feasibility Study and Construction and Contract Management,2006-08-10T00:00:00,Asian Development Bank,Transport and storage,Implementation,2006,2011,329430,293006
+204,TA 7411-NEP: Road Connectivity Project,2010-03-03T00:00:00,Asian Development Bank,Transport and storage,Implementation,2010,2011,612790,550059
+205,TA 7352-NEP: Support to Local Governance and Community Development Program,2009-11-15T00:00:00,Asian Development Bank,Other,Implementation,2009,2011,569230,213855
+206,PPTA 7574-NEP: Governance Support Program (Subprogram II),2010-08-09T00:00:00,Asian Development Bank,Other,Implementation,2010,2012,204263,105299
+207,TA7628-NEP: Energy Sector Capacity Building,2010-12-06T00:00:00,Asian Development Bank,Energy generation and supply,Implementation,2010,2013,612790,481422
+208,TA 4985-Nepal for Preparing the West Seti Hydroelectric Project,2007-11-16T00:00:00,Asian Development Bank,Energy generation and supply,Completion,2007,2011,320142,198770
+209,TA7590-NEP: Preparing Hydropower Development for Energy Crisis,2010-09-28T00:00:00,Asian Development Bank,Energy generation and supply,Implementation,2010,2013,2042635,1841267
+210,TA 7777-NEP: Improving Access to Finance Sector Development Program,,Asian Development Bank,Banking and financial services,Implementation,2011,2013,600000,483593
+211,TA7666-NEP: Energy Access and Efficiency Improvement Project,2010-11-26T00:00:00,Asian Development Bank,Energy generation and supply,Implementation,2010,2012,612790,413821
+212,TA 7176-NEP: Promoting Private Sector Participation in the Power Sector,2008-11-19T00:00:00,Asian Development Bank,Energy generation and supply,Completion,2008,2011,156597,125744
+213,TA 7546-NEP: Capacity Building for Rural Finance Sector Development,2010-06-18T00:00:00,Asian Development Bank,Banking and financial services,Implementation,2010,2012,306395,126256
+214,TA: Integrated Urban Development Project,2010-12-13T00:00:00,Asian Development Bank,Other,Implementation,2010,2013,817054,652952
+215,Supporting Capacity Development of Water Services Operations and Public-Private Partnership in Kathmandu Valley,2007-12-10T00:00:00,Asian Development Bank,Water supply and sanitation,Implementation,2007,2011,2667850,1652818
+216,Capacity Building for Waste Management,2010-09-16T00:00:00,Asian Development Bank,Other,Implementation,2010,2013,510658,416356
+217,Strengthening the Town Development Fund Capacity for Public Private Partnership,2010-11-29T00:00:00,Asian Development Bank,Other,Implementation,2010,2012,316608,256171
+218,TA 7504-NEP Increasing Access to Energy in Rural Nepal,2010-04-08T00:00:00,Asian Development Bank,Energy generation and supply,Implementation,2010,2013,952889,144645
+219,Institutional Strengthening of Municipalities,2009-09-24T00:00:00,Asian Development Bank,Other,Implementation,2009,2012,919185,826283
+220,TA 7573-NEP: Decentralized Rural Infrastructure & Livelihood Project II,2010-09-17T00:00:00,Asian Development Bank,Other social infrastructure and services,Implementation,2010,2012,510658,480404
+221,Secondary Towns Integrated Urban Environmental Improvement Project - PPTA,2008-12-02T00:00:00,Asian Development Bank,Other,Completion,2008,2011,883211,831071
+222,TA 4962-NEP: Support to Anticorruption Institutions,2008-03-18T00:00:00,Asian Development Bank,"Government and civil society, general",Completion,2008,2010,417594,338578
+223,Reducing Child Malnutrition through Social Protection,2011-06-08T00:00:00,Asian Development Bank,General budget support,Implementation,2011,2013,2700000,813942
+224,TA 7042-NEP: Economic Policy Network II,2008-09-01T00:00:00,Asian Development Bank,"General budget support|Government and civil society, general",Implementation,2008,2012,521992,419367
+225,TA 7158-NEP: Strengthening Capacity for Management for Development Results,2008-12-01T00:00:00,Asian Development Bank,Other social infrastructure and services,Implementation,2008,2012,521992,407999
+226,TA7165-NEP: Strengthening Capacity for Macroeconomic Analysis,2008-11-26T00:00:00,Asian Development Bank,Other social infrastructure and services,Implementation,2008,2013,704690,522336
+227,TA 7384-NEP: Institutional Strengthening of the National Planning Commission,2009-12-16T00:00:00,Asian Development Bank,"Government and civil society, general",Implementation,2009,2012,646852,409642
+228,TA 7530-NEP: Supporting the Development of a Social Protection Framework,2010-06-24T00:00:00,Asian Development Bank,"Government and civil society, general",Implementation,2010,2012,204263,141131
+229,Adolescent Girls Employment Initiative,2010-03-16T00:00:00,Department for International Development|World Bank Trust Funds,"Education, level unspecified",Implementation,2009,2013,5544733,6045757
+230,Scaling Up Nutrition Initiative -Technical Assistance (SUNITA),,World Bank Trust Funds,Health,Implementation,2011,2013,135000,91433
+231,Strengthening Institutional Capacity of the DNPWC for the Effective Management of Mountain Protected Areas,2011-08-25T00:00:00,World Bank Trust Funds,"Government and civil society, general",Implementation,2011,2013,500000,177424
+232,Micro Hydro Project (CDCF),2007-06-30T00:00:00,World Bank Trust Funds,Energy generation and supply,Implementation,2006,2007,2149811,-
+233,Program for Accountability in Nepal-PRAN,2011-01-24T00:00:00,World Bank Trust Funds,"Government and civil society, general",Implementation,2011,2013,782000,1265937
+234,Nepal Human Development - Social Protection Pilot,2011-08-29T00:00:00,World Bank Trust Funds,Other social infrastructure and services,Pipeline/identification,2011,2013,1500000,465895
+235,Ghar Ghar Maa Swasthya (GGMS/CRS),,U.S. Agency for International Development,Health,Implementation,2010,2013,5923641,3583302
+236,Combatting Trafficking in Persons (CTIP) project,,U.S. Agency for International Development,Other social infrastructure and services,Implementation,2010,2012,6944178,5812150
+237,"School Led Safe Water, Sanitation and Hygiene Improvement in Mid western areas of Nepal (Su-SWASTHA)",,U.S. Agency for International Development,Health,Implementation,2010,2013,318651,320877
+238,Ghar Ghar Maa Swasthya TA (GGMS/FHI360),,U.S. Agency for International Development,Health,Implementation,2010,2013,10094058,6125333
+239,Suaahara (Good Nutrition),,U.S. Agency for International Development,Health,Implementation,2011,2013,46000000,20141169
+240,Monitoring Nepal's Peace Process and Constitution Drafting Process,,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2009,2012,2589098,2593636
+241,Nepal Peace Support Project,,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2009,2013,2771257,4176806
+242,USAID/Nepal Transition Initiative (NTI),2006-09-16T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Completion,2006,2010,27282376,25547404
+243,"Safe Practices on Water, Sanitation and Hygiene (Safe-WASH)",,U.S. Agency for International Development,Health,Implementation,2010,2013,417718,412382
+244,Strengthening the Rehabilitation in District Environment (STRIDE),,U.S. Agency for International Development,Health,Implementation,2010,2013,2785280,1680892
+245,"Advancing Surveillance, Policies, Prevention, Care and Support to Fight HIV/AIDS project (ASHA)",,U.S. Agency for International Development,Health,Completion,2005,2012,24517556,22900646
+246,Strengthening Political Parties Electoral and Legislative Processes(SPELP),,U.S. Agency for International Development,Other social infrastructure and services,Implementation,2010,2012,24409490,16722276
+247,Hill Maize Research Program,,U.S. Agency for International Development,Agriculture,Implementation,2010,2013,2042635,2032163
+248,Education for Income Generation Program (EIG),,U.S. Agency for International Development,"Education, level unspecified",Implementation,2008,2012,15327468,15025680
+249,Nepal Family Health Program (NFHP II),,U.S. Agency for International Development,Health,Completion,2008,2011,31319571,30858734
+250,USAID/Nepal Flood Recovery Program,,U.S. Agency for International Development,Agriculture|Other social infrastructure and services,Implementation,2008,2011,8936912,8762618
+251,Support to the Peace Process in Nepal - phase I,2007-03-07T00:00:00,Denmark,"Conflict prevention and resolution, peace and security",Implementation,2007,2010,5521491,5398880
+252,Support to the Peace Process in Nepal - phase II,2008-08-27T00:00:00,Denmark,"Conflict prevention and resolution, peace and security",Implementation,2008,2012,9002812,8695673
+253,Local Grant Authority (LGA),2011-01-03T00:00:00,Denmark,Other social infrastructure and services,Implementation,2009,2012,5379248,4345443
+254,Humanitarian Aid,2007-08-16T00:00:00,Denmark,Other social infrastructure and services,Completion,2006,2009,239136,239136
+255,B2B Programme,2007-06-15T00:00:00,Denmark,Business and other services,Implementation,2007,2012,2456133,2110342
+256,Climate & Dev. Action Programme,2008-10-22T00:00:00,Denmark,General environmental protection,Completion,2008,2010,846408,741220
+257,"Rights, Democracy and Inclusion Fund (RDIF)",2009-06-05T00:00:00,Department for International Development|Denmark|Swiss Agency for Development and Cooperation|AusAid,Other social infrastructure and services,Implementation,2008,2012,8737931,6666805
+258,Nepal Health Sector Programme NHSP-II,2010-08-18T00:00:00,Department for International Development|Kreditanstalt fÃ¼r Wiederaufbau|International Development Association|AusAid,Health,Implementation,2009,2012,259221514,56021536
+259,Centre for Inclusive Growth,2009-03-11T00:00:00,Department for International Development,General budget support,Implementation,2009,2013,25173664,10696486
+260,Livelihood and Forestry Programme,2000-11-02T00:00:00,Department for International Development,Forestry,Completion,2000,2012,47781407,28125823
+261,Rural Reconstruction and Rehabilitation Sector Development Program[RRRSDP],2008-02-01T00:00:00,Department for International Development|OPEC Fund for Inernational Development|Swiss Agency for Development and Cooperation|Asian Development Bank|DRF UK,Other,Completion,2008,2013,138341832,99579883
+262,NEPAL RURAL ACCESS PROGRAMME PHASE- II,,Department for International Development,Other,Implementation,2008,2012,61766064,58236852
+263,Market Access for Small Farmers,2010-06-29T00:00:00,Department for International Development,Agriculture,Completion,2010,2012,3826306,3969441
+264,Great Himalayan Trail Development Programme,2010-01-15T00:00:00,Department for International Development,Tourism,Completion,2010,2013,3858444,3362984
+265,Nepal Investment Climate Facility Reform Programme,2009-09-10T00:00:00,Department for International Development,Industry,Implementation,2009,2011,7791636,7262714
+266,School sector Reform Program (SSRP),2010-01-01T00:00:00,Private Citizen|Department for International Development|Denmark|Finland|Japan International Cooperation Agency|Norway|International Development Association|Asian Development Bank|United Nations Children's Fund|European Union|AusAid,"Education, level unspecified",Implementation,2007,2013,788462343,285558160
+267,Social Inclusion Action Programme,2006-10-10T00:00:00,Department for International Development,Other social infrastructure and services,Completion,2006,2012,5556994,4452482
+268,Enabling State Programme,1997-11-05T00:00:00,Department for International Development,"Government and civil society, general",Implementation,1997,2013,-,50828457
+269,Community Support Programme Phase - II,2010-04-13T00:00:00,Department for International Development,Other,Implementation,2010,2013,27807064,19445578
+270,Local Governance and Community Development Program (LGCDP),2008-07-16T00:00:00,Swiss Agency for Development and Cooperation|Canadian International Development Agency|Denmark|Department for International Development|Asian Development Bank|Norway,Other,Implementation,2008,2013,174453437,152980780
+271,Gurkha Welfare Phase 4,2008-05-14T00:00:00,Department for International Development,Water supply and sanitation,Completion,2008,2012,7331082,5575356
+272,Employment Fund Phase I,2011-01-01T00:00:00,Department for International Development|Swiss Agency for Development and Cooperation,"Education, level unspecified",Implementation,2010,2013,26766420,12036425
+273,The Establishment of the Technical Training Center (TTC) at Kathmandu University,2011-12-09T00:00:00,Korea International Cooperation Agency,"Education, level unspecified",Implementation,2010,2013,3500000,1618954
+274,Conflict prevention programme,2010-10-01T00:00:00,United Nations Development Programme|European Union|United Nations Peace Fund,"Conflict prevention and resolution, peace and security",Implementation,2010,2013,2656886,4355436
+275,Renewable Energy for Rural Livelihoods (RERL),2011-05-01T00:00:00,United Nations Development Programme,Energy generation and supply,Implementation,2011,2013,2291967,2030659
+276,Comprehensive Disaster Risk Management Programme (CDRMP),2011-02-21T00:00:00,Department for International Development|United Nations Development Programme|United Nations International Stragegy for Disaster Reduction|European Union|World Bank Trust Funds,Other social infrastructure and services,Implementation,2011,2013,6063130,10573304
+277,Developing Capacities for Effective Aid Management and Coordination Project,2009-02-02T00:00:00,Department for International Development|Denmark|United Nations Development Programme,"Government and civil society, general",Implementation,2009,2012,1604491,1545256
+278,Rural Energy Development Programme:REDP,2007-09-18T00:00:00,United Nations Development Programme,Energy generation and supply,Completion,2007,2011,3548667,687911
+279,Assistance to the Peace Process in Nepal,2007-01-01T00:00:00,Department for International Development|United Nations Development Programme|Norway|United Nations Peace Fund,"Conflict prevention and resolution, peace and security",Completion,2006,2012,9349681,6922302
+280,UN Joint programme of support to LGCDP,2009-04-01T00:00:00,Department for International Development|Denmark|United Nations Development Programme|United Nations Capital Development Fund,Other,Implementation,2009,2013,11827702,8905073
+281,Agriculture-Based Micro-Enterprise Development Project,2011-04-01T00:00:00,Canadian International Development Agency,Agriculture,Implementation,2011,2011,1222743,1227747
+282,Peace Building from Below (PBB),2008-11-06T00:00:00,Canadian International Development Agency,"Conflict prevention and resolution, peace and security",Implementation,2006,2011,8808216,2658087
+283,Canada Fund for Local Initiatives,,Canadian International Development Agency,Other social infrastructure and services,Implementation,2011,2011,330442,-
+284,SAHAKARYA - Governance,2010-04-02T00:00:00,Canadian International Development Agency,Other,Implementation,2010,2011,353746,182501
+285,Development Democracy in Nepal Responsive Facility (DDNRF) - Nepal,2006-07-17T00:00:00,Canadian International Development Agency,Other social infrastructure and services,Implementation,2006,2006,4834477,-
+286,SAHAKARYA - agriculture,2010-11-01T00:00:00,Canadian International Development Agency,Agriculture,Completion,2010,2010,840837,840837
+287,School Health and Nutrition Project,2008-06-01T00:00:00,Japan International Cooperation Agency,Health,Completion,2008,2013,3769870,4288441
+288,Participatory Watershed Management and Local Governance Project,2009-07-15T00:00:00,Japan International Cooperation Agency,Forestry,Implementation,2008,2013,5431940,4482293
+289,Gender Mainstreaming and Social Inclusion Project,2009-02-01T00:00:00,Japan International Cooperation Agency,Other social infrastructure and services,Implementation,2009,2013,4952534,4712369
+290,Strengthening Community Mediation Capacity for Peaceful and Harmonious Society,2010-01-01T00:00:00,Japan International Cooperation Agency,"Conflict prevention and resolution, peace and security",Implementation,2009,2013,3380086,2976289
+291,Promotion of Quality Cocoon Production and Processing Project,,Japan International Cooperation Agency,Agriculture,Completion,2006,2012,1703541,2134271
+292,Project for Capacity Development on Water Supply in Semi-Urban Area,2010-02-01T00:00:00,Japan International Cooperation Agency,Water supply and sanitation,Implementation,2010,2013,3160262,2462248
+293,Promoting Peace Building and Democratization Through The Capacity Development of The Media Sector,2010-11-01T00:00:00,Japan International Cooperation Agency,Communications,Implementation,2010,2013,3440031,2052471
+294,Revitalization of Remote Villages through Community Forest Conservation,2011-02-01T00:00:00,Japan International Cooperation Agency,Agriculture|Forestry,Implementation,2011,2013,776933,336103
+295,"Village Development for Kavrepalanchok, Sindhupalchok and Makawanpur districts",2010-01-26T00:00:00,Japan International Cooperation Agency,Other,Completion,2010,2012,304742,323021
+296,Technical support and dissemination of alternative fuel firewood and oil,2009-07-21T00:00:00,Japan International Cooperation Agency,Energy generation and supply,Completion,2009,2012,186387,194770
+297,Local capacity building for arsenic mitigation in Nawalparasi,2010-12-12T00:00:00,Japan International Cooperation Agency,Health,Completion,2010,2013,605535,543147
+298,Youth Empowerment through Practical Peace Education,2008-05-01T00:00:00,Japan International Cooperation Agency,"Conflict prevention and resolution, peace and security",Completion,2008,2011,288843,348997
+299,Promotion of Maternal and Child Health at 4 VDCs in Nawalparasi District,2010-10-15T00:00:00,Japan International Cooperation Agency,Health,Completion,2010,2013,606550,569438
+300,Promoting Quality Education through Community Based School Management Follow-up,2011-01-01T00:00:00,Japan International Cooperation Agency,"Education, level unspecified",Completion,2010,2013,378525,352036
+301,Promoting Quality Eduction through Community Based School Management,2009-11-01T00:00:00,Japan International Cooperation Agency,"Education, level unspecified",Completion,2009,2012,563017,585754
+302,Bishesor Prasad Koirala Highway (Sindhuli Road Section III) [Nepalthok-Khurkot Segment],2009-11-16T00:00:00,Japan International Cooperation Agency|Japan,Transport and storage,Implementation,2008,2013,115694582,65521114
+303,Forest Preservation Project,2010-08-05T00:00:00,Japan,Forestry,Implementation,2010,2013,6580301,348378
+304,The Food AID Project (KR 2010),2011-03-17T00:00:00,Japan International Cooperation Agency,Industry,Completion,2011,2013,12574662,12323102
+305,Food Security Project for Underprivileged Farmers (KRII),,Japan International Cooperation Agency,Agriculture,Completion,2010,2011,5361821,6310034
+306,Improvement of Kathmandu-Bhaktapur Road Project,2008-10-01T00:00:00,Japan International Cooperation Agency,Transport and storage,Completion,2008,2011,27397790,31304060
+307,Improvement of community access (Rural Road Bridge Program),,Japan International Cooperation Agency,Other,Implementation,2010,2013,11367748,6105705
+308,Melamchi Drinking Water Project,2001-11-28T00:00:00,Japan International Cooperation Agency|Organization of the Petroleum Exporting Countries|Nordic Development Fund|Asian Development Bank,Water supply and sanitation,Implementation,2001,2013,239639046,63519845
+309,Home Garden Project Phase 3,2009-04-01T00:00:00,Swiss Agency for Development and Cooperation,Agriculture,Implementation,2009,2013,1130277,978682
+310,Vegetable Seed Project Phase 3,2011-01-01T00:00:00,Department for International Development|Swiss Agency for Development and Cooperation,Agriculture,Implementation,2010,2013,2680828,1441037
+311,Good Governance Project Phase IV,2009-03-01T00:00:00,Swiss Agency for Development and Cooperation,Other,Completion,2009,2012,1247492,1141484
+312,Raising Impact of National Skill Testing Board Phase I,2007-01-01T00:00:00,Swiss Agency for Development and Cooperation,"Education, level unspecified",Completion,2007,2013,841879,822366
+313,Vertical Shaft Brick Kiln Project Phase 5,2008-01-01T00:00:00,Swiss Agency for Development and Cooperation,Industry,Completion,2008,2013,5289192,3826807
+314,Multi Stakeholder Forestry Programme (MSFP),2012-01-23T00:00:00,Department for International Development|Swiss Agency for Development and Cooperation|Finland,Forestry,Implementation,2011,2013,63006519,6730421
+315,Franchising Skill Phase 3,2008-05-01T00:00:00,Swiss Agency for Development and Cooperation,"Education, level unspecified",Completion,2008,2013,1888997,1068208
+316,Strengthen BOG secretariat,2009-10-01T00:00:00,Swiss Agency for Development and Cooperation,"Conflict prevention and resolution, peace and security",Implementation,2009,2013,697042,594260
+317,River Protection Works in East Chitwan,2011-05-01T00:00:00,Swiss Agency for Development and Cooperation,Agriculture,Implementation,2011,2013,2121791,3598416
+318,Safer Migration Project Phase I,2011-02-01T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Implementation,2010,2012,1273074,1017643
+319,Social Responsiveness Program,2008-11-01T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Completion,2008,2012,528918,392318
+320,Safe Drinking Water for Ramechhap District,,Swiss Agency for Development and Cooperation,Water supply and sanitation,Pipeline/identification,2011,2011,7100345,113134
+321,Motorable Local Road Bridge Program Phase I,2011-02-01T00:00:00,Swiss Agency for Development and Cooperation,Other,Implementation,2011,2013,9919372,7434274
+322,State Building at Local Level Phase 1,2011-08-01T00:00:00,Swiss Agency for Development and Cooperation,Other,Implementation,2010,2012,5044136,1554149
+323,Nepal Swiss Community Forestry Project,2008-07-16T00:00:00,Swiss Agency for Development and Cooperation,Forestry,Implementation,2008,2013,5202298,4052015
+324,Buffer Zone Development Project,2009-03-01T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Completion,2009,2011,622642,607266
+325,Support for Effective Empowerment,2008-11-01T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Completion,2008,2013,402985,233868
+326,Local Infrastructure for Livelihood Improvement Project-II,2009-08-01T00:00:00,Swiss Agency for Development and Cooperation|HELVETAS Switzerland,Other,Implementation,2009,2013,7168118,8678172
+327,Rural Health Development Project (Phase-7),2009-07-16T00:00:00,Swiss Agency for Development and Cooperation,Health,Implementation,2009,2013,4030628,3790877
+328,"Trail Bridge Sub-Sector Programme,Phase II",2007-01-01T00:00:00,Swiss Agency for Development and Cooperation,Other,Completion,2007,2010,8861891,9517550
+329,Supporting Nepal's WTO accession,2008-04-30T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Business and other services,Completion,2008,2013,1290571,1129771
+330,Support to Peace Process (STPP),2007-09-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,"Conflict prevention and resolution, peace and security",Implementation,2007,2013,13382310,9853835
+331,Inclusive Development of the Economy (INCLUDE) Programme,2009-02-06T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,"Agriculture|Government and civil society, general",Implementation,2008,2013,13530068,9090186
+332,Revenue Administration Support Project (RAS),2009-01-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,"Government and civil society, general",Implementation,2008,2013,2188895,1845393
+333,Health Sector Support Programme (HSSP),2006-01-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Health,Implementation,2006,2013,15392845,11459668
+334,Nepal Energy Efficiency Programme (NEEP)/Support to Energy efficiency,2010-02-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,"Government and civil society, general|Industry|Energy generation and supply|Energy generation and supply|Energy generation and supply",Implementation,2010,2013,5478116,2919691
+335,Energising Development (EnDev) Nepal,2009-01-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Energy generation and supply|Energy generation and supply|Energy generation and supply,Implementation,2008,2013,2209515,1352655
+336,HIV prevention for Injecting Drug Users (Harm Reduction),,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Health,Implementation,2010,2013,2809290,1182531
+337,Improvement of Livelihoods in Rural Areas (ILRA),2009-10-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Other social infrastructure and services|Agriculture|Other social infrastructure and services|Banking and financial services,Implementation,2009,2013,6567399,5744564
+338,"Sub-national Governance Programme, Nepal (SUNAG)",,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Other|Other,Implementation,2011,2013,14810426,6686399
+339,Poverty Alleviation in Selected Rural Areas of Nepal (PASRA),2008-01-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Other,Completion,2007,2013,11604833,9070855
+340,Urban Development through Local Efforts Programme (UDLE),2008-01-01T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Other,Completion,2007,2013,10057523,7942044
+341,Carter Senteret 2010,,Norway,"Government and civil society, general",Completion,2011,2012,346536,798522
+342,Support to Strategic and Operational Plan of INSEC,2009-09-08T00:00:00,Norway,"Government and civil society, general",Implementation,2009,2013,2182769,2211331
+343,Support to Center for Constitutional Dialogue,2010-08-31T00:00:00,Norway,"Government and civil society, general",Completion,2008,2012,803126,1711573
+344,Multi Donor Trust Fund for Public Financial Management (WB),2010-12-13T00:00:00,Norway|World Bank Trust Funds,Banking and financial services,Implementation,2010,2013,6845107,5282753
+345,Support to the electoral process in Nepal. Building electoral capacity and promoting electoral legal reform,2011-08-28T00:00:00,Norway,"Government and civil society, general",Implementation,2010,2013,1259831,1057028
+346,Theatre Partnership Nepal-Norway â Exit Phase,2010-08-31T00:00:00,Norway,Other social infrastructure and services,Implementation,2010,2012,453818,484232
+347,Supporting Nepalâs Constitution Making and Implementation,2010-01-15T00:00:00,Norway,Other social infrastructure and services,Implementation,2009,2012,3708540,3103960
+348,Music Collaboration Through Nepal Music Center - Exit Phase,2010-08-05T00:00:00,Norway,Other social infrastructure and services,Implementation,2010,2012,476941,490520
+349,ICIMOD core support,2007-08-30T00:00:00,Norway,Agriculture|Forestry,Implementation,2007,2012,4223530,4580941
+350,Strengthening of LGBTI through Blue Diamond support,,Norway,Other social infrastructure and services,Implementation,2011,2013,1078671,436217
+351,Transparency Nepal,2011-01-01T00:00:00,Norway,"Government and civil society, general",Implementation,2010,2013,205265,181687
+352,"Social Inclusion Research Fund Assistance Programme, SIRF II",2010-01-01T00:00:00,Norway,Other social infrastructure and services,Implementation,2009,2012,4070357,3540682
+353,Promoting Participatory Democracy - MIREST,2010-11-01T00:00:00,Norway,Other social infrastructure and services,Implementation,2010,2013,2065562,1804709
+354,Hydro Lab Phase II,2006-08-08T00:00:00,Norway,Energy generation and supply,Implementation,2006,2013,1129980,1077811
+355,Hindu Kush Himalaya Cryosphere studies and capacity building,2010-11-30T00:00:00,Norway,General environmental protection,Implementation,2010,2012,5810014,2995425
+356,Sustainable Development Together,2007-01-04T00:00:00,Finland,Other social infrastructure and services,Completion,2007,2011,1244584,1190445
+357,Rural Water Supply and Sanitation Project in Western Nepal [RWSSP-WN],2008-08-01T00:00:00,Finland,Other,Implementation,2008,2013,15965002,10957564
+358,Rural Village Water Resource Management Project Phase- II,2010-09-01T00:00:00,Finland,Other,Implementation,2010,2013,17334406,9061298
+359,"Strengthening of Environmental Administration and Management at the Local Level [SEAM,N]",2008-08-01T00:00:00,Finland,Other,Implementation,2008,2013,9793755,6754992
+360,Improved capability to respond to increased risk of natural disasters related to climate change,2010-05-01T00:00:00,Finland,"Government and civil society, general",Completion,2009,2012,667805,691293
+361,Improving Research Capacity of Forest Resource Information Technology (IRCFRIT),2010-01-25T00:00:00,Finland,Forestry,Completion,2009,2011,370490,327305
+362,Regional Waste Management Project (RWMP),2010-04-27T00:00:00,Finland,Other,Completion,2010,2012,6009357,3647270
+363,Forest Resource Assessment in Nepal,,Finland,Forestry,Implementation,2009,2013,6632579,5499375
+364,Support to Institutionalizing the Nepal Food Security Monitoring and Analysis System,,European Union,Other social infrastructure and services|Other,Pipeline/identification,-,-,-,-
+365,Climate and Carbon Funding in Renewable Energy Sector in Nepal,2010-04-01T00:00:00,Department for International Development|SNV Netherlands Development Organisation,Energy generation and supply,Completion,2010,2012,922172,845961
+366,Support to Decentralising Renewable Energy (in Nepal),2011-01-01T00:00:00,SNV Netherlands Development Organisation,Energy generation and supply,Suspended,2010,2011,242743,80577
+367,Sustainable Sanitation and Hygiene for All (SSH4A) - AusAID,2010-06-01T00:00:00,SNV Netherlands Development Organisation,Other social infrastructure and services,Completion,2010,2012,403150,384656
+368,(Improving) Functionality of Water Supply Services in Nepal,2011-01-01T00:00:00,SNV Netherlands Development Organisation,Water supply and sanitation,Implementation,2010,2013,820746,204684
+369,High Value Agriculture Project (HVAP) in Hills and Mountains Areas,2010-11-01T00:00:00,SNV Netherlands Development Organisation,Agriculture,Implementation,2010,2013,759513,365226
+370,Raising Income of Small and Medium Farmers Project (RISMFP),,SNV Netherlands Development Organisation,Agriculture,Implementation,2011,2013,513489,133595
+371,Social Inclusion Research Fund (SIRF),2007-01-01T00:00:00,SNV Netherlands Development Organisation,Other social infrastructure and services,Implementation,2007,2007,-,-
+372,High Impact Tourism Training for Jobs and Income (HITT) Programme,2011-01-01T00:00:00,SNV Netherlands Development Organisation,Tourism,Implementation,2010,2013,681776,415707
+373,Domesticated Forest Products Value Chain Development Programme (DFPVC),2011-01-01T00:00:00,SNV Netherlands Development Organisation,Forestry,Completion,2010,2011,292228,97003
+374,Great Himalayan Trail Development Project (GHTDP),2010-06-01T00:00:00,SNV Netherlands Development Organisation,Tourism,Implementation,2010,2010,-,-
+375,Local capacity Development Facility (LCDF),2012-01-01T00:00:00,SNV Netherlands Development Organisation,Energy generation and supply,Implementation,2010,2012,1093927,44355
+376,SNV Regional and Corporate Programmes (SNV),,SNV Netherlands Development Organisation,"Government and civil society, general",Implementation,2010,2011,389981,129451
+377,Pro Poor Reduction of Emissions from Deforestation and Destruction of Forests (REDD),2010-01-01T00:00:00,SNV Netherlands Development Organisation,Forestry,Completion,2010,2011,52646,23800
+378,High Value Crops Programme (HVCP) - East,2010-01-01T00:00:00,SNV Netherlands Development Organisation,Agriculture,Completion,2010,2011,208591,69240
+379,"Programme Component Result: PCR5, Intermediate Results: IR 1 - Local Governance",2011-02-01T00:00:00,United Nations Children's Fund,Other,Implementation,2011,2012,4423115,3281729
+380,"PCR5, IR-3: Legislation, social protection, social budgeting, child poverty",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,307900,336616
+381,"PCR5, IR - 4: Participation and Partnerships",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,662868,556258
+382,"PCR5, IR5: Evidence and disaggregated information on the Situation of Children and Women generated and made available to policy makers through a KM system",2008-01-01T00:00:00,United Nations Children's Fund,"Other social infrastructure and services|Government and civil society, general",Implementation,2008,2012,256000,143744
+383,"PCR 3, IR 1: Pregnant women and adolescents from MARP groups in intervention areas , who need ARV treatment are empowered to opt for appropriate services for themselves and their children.",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,752800,369462
+384,"PCR 3, IR 2: Adolescent girls and boys specifically MARAs and EVAs have comprehensive knowledge and skills to protect themselves from HIV in intervention areas.",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,821139,216158
+385,"PCR 3, IR 3: CABA specifically adolescent girls have access to programmes to strengthen their life skills and to protection mechanisms that provide them with protection and care services from families, communities and government in intervention areas.",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,792542,180713
+386,"PCR 4, IR 1 - Legislation and Justice System",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,817054,597762
+387,"PCR 2, IR 1: Education sector Policy lobby and advocacy",2008-01-01T00:00:00,United Nations Children's Fund,"Education, level unspecified|Government and civil society, general",Implementation,2008,2012,2208796,518525
+388,"PCR 2, IR 2: Child Friendly Service delivery",2008-01-01T00:00:00,United Nations Children's Fund,"Education, level unspecified",Implementation,2008,2012,2701070,2651706
+389,"PCR 2, IR 3: Peace & Emergency Education Stakeholder capacity in disaster risk reduction, preparedness, response & recovery enhanced to ensure education of children (girls & boys) & adolescent girls during humanitarian crises in line with the CCCs.",2008-01-01T00:00:00,United Nations Children's Fund,"Education, level unspecified|Conflict prevention and resolution, peace and security",Implementation,2008,2012,842862,697713
+390,"PCR 2, IR 4: Community Mobilization and Capacity Building",2008-01-01T00:00:00,United Nations Children's Fund,"Education, level unspecified",Implementation,2008,2012,1390209,720866
+391,"PCR 4, IR 2: Social Welfare Services",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,1511550,634305
+392,"PCR 4, IR 3: Community-Based and Coordination/Referral",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,5717335,3771102
+393,"PCR 4, IR 4: Child Protection - Armed Conflict",2008-01-01T00:00:00,United Nations Children's Fund,Other social infrastructure and services,Implementation,2008,2012,5079012,2800249
+394,"PCR 1, IR 1: Maternal and Child Health and Nutrition âEquity focused Policy and Strategy Support",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,635368,308501
+395,"PCR 1, IR 2: Maternal and Child Health and nutrition âservices for women, children and adolescent girls",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,5148313,4301071
+396,"PCR 1, IR 3: Access & utilization of micronutrients (Vitamin A, iron tablets, MNP Powder, Iodized salt) with focus on children, adolescent girls & mothers in disadvantaged groups and urban areas increased.",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,1628324,2297666
+397,"PCR 1, IR 5: Capacity of Govt/ Stakeholders in disaster risk reduction, preparedness, response & recovery enhanced to ensure H&N status of children, adolescents girls & women during humanitarian crisis",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,753000,891045
+398,"PCR 1, IR 4: Maternal, Newborn, child health and adolescents survival- Communication for Development",2008-01-01T00:00:00,United Nations Children's Fund,Health,Implementation,2008,2012,789000,655856
+399,"PCR 6, IR 1 - National WASH Programme formulated, ensuring the incorporation of gender, social inclusion and equity issues",2008-01-01T00:00:00,United Nations Children's Fund,Water supply and sanitation|Other,Implementation,2008,2012,386000,245201
+400,"PCR 6, IR 2: HHs and institutions especially in MDAG VDCs in DACAW, diarrhoea prone & low sanitation coverage districts increasingly utilise improved sanitation, hygiene and water supply facilities.",2008-01-01T00:00:00,United Nations Children's Fund,Water supply and sanitation|Other,Implementation,2008,2012,2427074,2418328
+401,"PCR 6, IR 3 - Cluster leadership and equitable access and use of emergency WASH services in line with the CCCs & Sphere standards.",2008-01-01T00:00:00,United Nations Children's Fund,Water supply and sanitation|Other,Implementation,2008,2012,311404,624577
+402,PRRO 200136 Food Assistance to Refugees from Bhutan,2011-01-01T00:00:00,Denmark|World Food Programme,Health|Other social infrastructure and services,Implementation,2010,2013,24035541,15954480
+403,PRRO 200152 Assistance to Food-insecure Populations in the Mid/Far-West Hill and Mountain Regions of Nepal,2011-01-01T00:00:00,World Food Programme,Other social infrastructure and services|Health|Other|Other social infrastructure and services,Implementation,2010,2012,170165729,49709471
+404,Experimenting HIV/Youth Frendly services integration to health services in Nepal -Project Acceleration Fund (PAF),2008-04-30T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Completion,2008,2009,41759,37812
+405,Unified Work-Plan and Budget (UBW),2010-12-31T00:00:00,United Nations Population Fund,Health,Completion,2010,2012,92888,20146
+406,Emergency Life saving mobile reproductive health services in the remotest and conflict affected districts of Nepal (CERF),2010-09-20T00:00:00,United Nations Population Fund,Health,Completion,2010,2011,240899,217346
+407,Emergency Reproductive Health services to conflict affected and marginalized population the Far Western Region of Nepal (ECHO V),2010-12-31T00:00:00,United Nations Population Fund,Health,Completion,2010,2011,511601,328679
+408,"Delivering Essential Reproductive Health Care for Women, Men and Adolescents of Mid and Far Western Districts of Nepal through Mobile Reproductive Health Camps.",2008-08-01T00:00:00,United Nations Population Fund,Health,Completion,2008,2010,536608,476287
+409,Multi-Sectoral Gender Based Violence Response at the District Level in Nepal (EVAW),2009-08-22T00:00:00,United Nations Population Fund,Health,Completion,2009,2013,428014,341598
+410,Support to the Rehabilitation of Verified Minors and Late Recruits (UNIRP).,2010-06-01T00:00:00,United Nations Population Fund,Health,Completion,2010,2012,911403,321615
+411,"COUNTRY PROGRAMME ACTION PLAN (CPAP), 2008-2010 (extended to 2012) for the Programme of Cooperation between The Government of Nepal and The United Nations Population Fund (UNFPA)",2008-01-01T00:00:00,United Nations Population Fund,Health|Other,Completion,2008,2012,25747758,21546618
+412,"Delivering Essential Reproductive Health Care, Education and Counselling to Vulnerable Women and Adolescent Girls of Nepal affected by conflict (HSTF)",2010-02-14T00:00:00,United Nations Population Fund,Health,Completion,2010,2012,914331,855972
+413,Ensuring recognition of sexual violence as a tool of conflict in the Nepal peace building process through documentation and provision of comprehensive services to women and girl victims/survivors (SGBV).,2010-06-04T00:00:00,United Nations Population Fund,Health,Completion,2010,2012,1411522,1264880
+414,Maternal Health Trust Fund (MHTF),2010-10-05T00:00:00,United Nations Population Fund,Health,Completion,2010,2012,408527,150635
+415,Providing Emergency Reproductive Health Assistance to conflict affected and vulnerable populations in Far and Mid Western Nepal (ECHO IV),2009-10-01T00:00:00,United Nations Population Fund,Health,Completion,2009,2010,429705,419649
+416,SENEP1003708 - Nepal Tuberculosis,2010-01-01T00:00:00,World Health Organization,Health,Completion,2010,2012,85790,76349
+417,"SENEP1003827 - To improve health services through better governance, financing, staffing and management, to improve knowledge, management and information technology and the use of essential medicinal products",2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,555776,587375
+418,SENEP1003933 - Environmental Health and Food Safety,2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,497818,455346
+419,SENEP1003934 - Nepal Human Resources for Health,2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,737929,704969
+420,"SENEP1003982 - Improving health and nutrition during key stage of life-including pregnancy, childbirth, neonatal period, childhood, adolescence and older age-promoting equity",2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,674797,626690
+421,SENEP1003990 - Programme for Immunization Preventable Diseases,2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,115916,111883
+422,SENEP1004004 - To combat HIV/AIDS,2010-01-01T00:00:00,World Health Organization,Health,Implementation,2009,2012,105048,179241
+423,"SENEP1004037 - Non-Communicable Diseases, Mental Health and Oral Health",2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,147999,229076
+424,"SENEP1004085 - Health promotion, tobacco, injury, violence, deafness and blindness",2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,211132,196752
+425,SENEP1004175 - Communicable Disease Surveillance and Response/Malaria/Essential Health Technology,2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,547496,511264
+426,"SENEP1004135 - Reduce the health consequences of emergencies, disasters, crises and conflits, and minimize their social and economic impact",2010-01-01T00:00:00,World Health Organization,Health,Completion,2009,2012,87972,82298
+427,Combating Citrus Decline Problem in Nepal,2010-12-01T00:00:00,Food and Agriculture Organization,Agriculture,Completion,2010,2012,309459,501603
+428,Integrated Pest Management Phase II,2008-10-27T00:00:00,Norway,Agriculture,Implementation,2008,2013,3966846,4528122
+429,Support to Mitigate the Negative Effects of High Food Prices on Local Rural Populations in Ten Districts,2009-05-01T00:00:00,Food and Agriculture Organization,Agriculture,Completion,2009,2009,12226866,-
+430,Technical Assistance Support for Leasehold Forest and Livestock Programme GCP/NEP/062,2009-08-10T00:00:00,Finland,Agriculture,Implementation,2009,2012,1124492,1647354
+431,Piloting land registration and management in Achham district,2010-08-01T00:00:00,United Nations Peace Fund,Agriculture,Completion,2010,2012,42228,251270
+432,Enhancing Capacities for Climate Change Adaptation and Disaster Risk Management for Sustainable Livelihoods in the Agriculture Sector,2011-08-31T00:00:00,United Nations Development Programme,Agriculture,Completion,2009,2012,107522,241033
+433,Support to the National Integrated Pest Management Programme in Nepal,2008-10-27T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2008,2011,3549551,1749420
+434,Engendering the Population and Housing Census 2011,2010-12-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2010,2010,217913,217913
+435,Empowering Women Migrant Workers through Effective  Policy Response,2010-08-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2010,2013,12711537,9314915
+436,Promoting Gender Responsive Security Sector (PROGRESS): Towards Implementation of UNSCRs 1325 and 1820 - (Nepal Army),2010-11-15T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Completion,2010,2012,100299,86881
+437,Development of Standard Operation Procedural Guidelines for In-Camera Hearing and Conducting Training on Gender Based Violence for Government Officials and Civil Society Actors,2010-12-01T00:00:00,United Nations Development Fund for Women,"Unallocated/ unspecified|Conflict prevention and resolution, peace and security",Completion,2010,2012,157086,144744
+438,"Capacity assessment, preparation of a capacity development plan, and capacity development activities on Gender Responsive Budgeting (GRB) and Aid Effectiveness",2010-11-01T00:00:00,United Nations Development Fund for Women,General budget support,Completion,2010,2012,50654,56764
+439,"Conducting Assessment of GBV Prevalence, Trends, Legal Recourse Focusing on Conflict and Transitional Period",2010-09-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2010,2012,3168035,42856
+440,Reinforcing Political Commitment for the Implementation of UNSCRs 1325 and 1820,2011-06-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2011,2012,64153,19145
+441,Implementation UN Women supported components in local governance and community development programme(LGCDP),2009-12-01T00:00:00,Ministry of Federal Affairs and Local Development,Other,Implementation,2009,2013,425438,337694
+442,"Monitoring the Implementation of National Action Plan on UNSCRs 1325 and 1820, CEDAW and National Action Plan on Anti Trafficking - (NWC)",2011-06-01T00:00:00,United Nations Development Fund for Women|National Women's Commission,Other social infrastructure and services,Completion,2011,2012,139799,102734
+443,"Facilitating the Implementation of selected activities of the project âPartnership for Equality and Capacity Enhancement"" - (Shantimalika)",2011-06-01T00:00:00,United Nations Development Fund for Women,"Government and civil society, general",Completion,2011,2012,68302,64464
+444,Sustaining the gains of foreign labour migration through the protection of migrant workersâ rights,2011-08-03T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2011,2013,29412,24637
+445,A57846 - Improving the quality of clinical management of HIV and AIDS cases by documenting and experience sharing among doctors providing ART services,2011-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2010,2011,22000,9056
+446,âLinking high risk and especially vulnerable adolescents with PMTCTâ,2011-01-01T00:00:00,United Nations Children's Fund,Health,Pipeline/identification,2010,2011,49111,49111
+447,Providing HIV and AIDS education for illiterate women through community learning centres (CLCs),2010-11-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Pipeline/identification,2010,2010,46144,46144
+448,"Leadership and resource mobilization for a broadbased HIV response at country, regional and global levels are strengthened.",2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2009,2011,67272,30686
+449,"Strategic information strengthened and available to support knowing your epidemic, guiding an evidence informed response and improving accountability.",2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2009,2011,134080,79662
+450,"Human resources and systems of government and civil society enhanced to develop, implement and scale up evidence informed comprehensive HIV responses.",2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2009,2011,119020,87689
+451,"Increased coverage and sustainability of programmes including to address the vulnerability of, and impact on women and girls, young people, children, populations affected by humanitarian crisis and mobile populations.",2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2009,2011,12419,10000
+452,"To enhance national capacities for scaling- up HIV prevention, treatment, care and support.",2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2009,2011,28979,17410
+453,Support critical activities emerging from unforseen oppertunity.,2011-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2010,2011,20426,14621
+454,Progressive actions are taken toward HIV and AIDS related policy development in one or more key policy areas.,2010-01-01T00:00:00,Joint United Nations Programme on HIV/AIDS,Health,Implementation,2010,2011,28247,10771
+455,51-11444001-KAT (Education) Improving literacy for sustainable development with particular focus on women and disadvantaged groups within the framework of LIFE,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2009,2011,41398,53672
+456,51-12400015-KAT (Education) Support Nat effort for assessing secondary education policy in light of School Sector Reform Prog (SSRP),2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2009,2011,51748,71440
+457,51-12409016-KAT (Education) Supporting national efforts to improve policies for achieving quality basic education for all,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2009,2011,41398,32319
+458,51-13443003-KAT (Education) Supporting national efforts for integrating education for sustainable development in a sector wide framework,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2009,2011,33222,32606
+459,"51-13444001-KAT (Education) Enhancing policy, planning and monitoring for achieving the goals of EFA in the context of School Sector Reform (SSR) and federalism",2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2009,2011,62097,76932
+460,54-11200083-KAT (Culture) Supporting national efforts for effective implementation of the WH Convention in Nepal,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Completion,2009,2011,84883,103126
+461,54-12200039-KAT (Culture) Support for strengthening national policies for safeguarding Nepal's intangible cultural heritage in the spirit of 2003 Convention,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Completion,2009,2011,35188,43757
+462,"55-11140028-KAT (Communication & Information) Developing free, independent and pluralistic media based on MDIs",2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Communications,Completion,2009,2011,31048,30092
+463,55-11340016-KAT (Communication & Information) Foster editorial independence and quality programming in community media and public service broadcasting,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Communications,Completion,2010,2011,20426,36358
+464,"55-21100027-KAT (Communication & Information) Developing free, independent and pluralistic media based on MDIs",2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Communications,Completion,2009,2011,68176,86187
+465,55-22404028-KAT (Communication & Information) Developing strategies for using ICTs in knowledge acquisition and sharing,2010-01-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization",Communications,Completion,2009,2011,20699,18717
+466,552 NEP 1002 (ExB - Education) JFIT Literacy Project - Phase 2,2010-01-22T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2010,2011,102131,151354
+467,207 NEP 1000 (ExB - Education) HIV and AIDS education through community learning centres (CLCs) among illiterate women in the mid- and far-west regions of Nepal,2011-02-01T00:00:00,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Completion,2011,2011,45181,13983
+468,"536 NEP 4001.1 (ExB - Culture) Strengthening Conservation and Management of Lumbini, the Birthplace of the Lord Buddha, World Heritage Property",2010-07-16T00:00:00,Japan,Other social infrastructure and services,Implementation,2010,2013,808664,669280
+469,Enhancing and Improving access to energy services through development of public-private partnerships,,The United Nations Economic and Social Commission for Asia and the Pacific,Energy generation and supply,Pipeline/identification,2012,2012,157094,-
+470,Capacity Development TA for Mainstreaming Climate Change Risk Management in Development,2012-04-01T00:00:00,Asian Development Bank,General environmental protection,Implementation,2011,2013,7163000,849628
+471,Reducing Child Malnutrition through Social Protection (JFPR),,Asian Development Bank,Other,Pipeline/identification,2011,2012,2000000,810058
+472,Assistance for Support for Targeted and Sustainable Development Programs for Highly Marginalized Groups,,Asian Development Bank,Other,Implementation,2011,2012,2700000,196172
+473,Rani Jamara Kulariya Irrigation Project,,International Development Association,Agriculture,Implementation,2011,2013,41653012,8428576
+474,National Rural and Renewable Energy Programme(NRREP),2012-07-18T00:00:00,Denmark|Norway,Energy generation and supply,Implementation,2012,2012,62828679,7623951
+475,Clean Start Program,2012-08-28T00:00:00,United Nations Capital Development Fund,Energy generation and supply,Pipeline/identification,2012,2012,1276396,-
+476,Isolated Water Supply System for Urban Poor Communities in Kathmandu Valley,2009-08-21T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Implementation,2009,2012,178013,104067
+477,WASH Lifesaving Support Project- Preventing deaths of vulnerable population (children and women) through lifesaving WASH promotion and response (CERF Nepal Project),2011-02-01T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2011,2011,62915,62915
+478,Lifesaving Initiatives for Flood Affected People in 10 Village Development Committees of Kanchanpur District (CERF Nepal Project),2011-02-02T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2011,2011,27120,25810
+479,Pro Poor Urban Governance through Poverty Mapping and Gender Assessment in Selected Municipalities,2007-09-16T00:00:00,United Nations Human Settlements Programme,Other,Completion,2007,2010,166224,97593
+480,"Capacity Building of Water and Sanitation Userâs Committee (WSUC) for Pro Poor Service Delivery in Selected Five Small Towns and Development of Management Information System for all Towns: Tulsipur, Birendranagar, Kohalpur, Attariya and Mahendranagar.",2007-09-16T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2007,2012,207558,198953
+481,"Strengthening Water, Sanitation and Hygiene Treasuring Health (SWASHTHA)- II- in Tikapur and Guleriaya, Nepal.",2009-11-27T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Implementation,2009,2012,135062,116862
+482,Improved Municipal Solid Waste Management through Institutional Capacity Building of SWMRMC of Nepal - II,2009-12-24T00:00:00,United Nations Human Settlements Programme,Other,Implementation,2009,2010,170769,50555
+483,Dissemination of Nepal National Water Plan and Water for Asian Cities Program through Media in Nepal,2010-02-10T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation|Health,Completion,2010,2012,24511,24116
+484,Open Defecation Free Campaign and Sanitation and Hygiene Behaviour Promotion in Bajura District,2012-04-07T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,130000,114875
+485,Open Defecation Free Campaign and Sanitation and Hygiene Behaviour Promotion in Bardiya District,2011-12-07T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,130000,38291
+486,Open Defecation Free Campaign and Sanitation and Hygiene Behaviour Promotion in Tikapur Municipality,2012-01-22T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,29455,17673
+487,Open Defecation Free Campaign and Sanitation and Hygiene Behaviour Promotion in Guleriya Municipality,2011-12-19T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,29455,17673
+488,Integrated Shelter Assistance for 225 Landless Households Affected by Koshi Flood,2009-10-07T00:00:00,United Nations Human Settlements Programme,Other social infrastructure and services,Completion,2009,2010,197937,195326
+489,Micro Hydro Power Debt Fund,2010-11-02T00:00:00,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Energy generation and supply,Implementation,2010,2010,709149,-
+490,Forest restoration and sustainable land management in the Churia Range to combat land degradation,,Ministry of Land Reform and Management|Global Environment Facility|Ministry of Forest and Soil Conservation|Ministry of Agriculture Development,Forestry,Pipeline/identification,2012,2012,1570949,-
+491,Enabling activiteis to review and update the national implementation plan for the Stockholm Convention o Persistent Organic Pollutants(POPs),2012-09-30T00:00:00,"Ministry of Science, Technology and Environment|Global Environment Facility|United Nations Organization for Industrial Development",General environmental protection,Pipeline/identification,2012,2012,-,-
+492,"Strengthening Water, Air, Sanitation and Hygiene Treasuring Health (SWASHTHA) - I",2008-11-03T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Implementation,2008,2012,206709,130158
+493,"Demonstration of Community Rain Water Recharge Techniques in Patan, Nepal",2009-11-25T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2009,2012,67862,61119
+494,"Institutional Strengthening of Water Users Committees and Accelerating Water and Sanitation Coverage of Five Eastern Small Towns Trijuga, Itahari, Surunga, Buddhabare and Fikkal",2008-09-12T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Implementation,2008,2012,222890,129754
+495,Capacity Building for Strategic Planning for Municipal Solid Waste Management including understanding of Climate Change and Clean Development Mechanism,2008-02-10T00:00:00,United Nations Human Settlements Programme,Other,Implementation,2008,2011,94610,65031
+496,Integrating Water and Sanitation Services to Urban Poor Communities in two Municipalities of Nepal,2009-10-23T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2009,2012,165594,94949
+497,Sustainable WASH in the Koshi Affected Resettled Community,2010-02-17T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Completion,2010,2011,51065,50319
+498,Provision of Total Coverage of Safe Drinking Water and Sustainable Sanitation Facilities in Urban Poor Communities in Hetauda Municipality,2007-10-01T00:00:00,United Nations Human Settlements Programme,Water supply and sanitation,Implementation,2007,2011,106287,61766
+499,Cities and Climate Change Initiatives,2011-05-20T00:00:00,United Nations Human Settlements Programme,General environmental protection,Implementation,2011,2012,26000,9377
+500,Disaster Recovery Centre,2013-04-22T00:00:00,Korea International Cooperation Agency,Other social infrastructure and services,Implementation,2013,2013,4751403,-
+501,Tatopani Frontier Inspection Station Project,,China,Business and other services,Pipeline/identification,2012,2012,13389907,12115329
+502,"International Protection and Assistance to Refugees, Asylum Seekers and people without citizenship in Nepal",2010-07-16T00:00:00,United Nations High Commissioner for Refugees,"Conflict prevention and resolution, peace and security",Implementation,2010,2011,14986441,10045160
+503,Skills Enhancement for Employment Project (SEEP),2009-02-16T00:00:00,International Fund for Agricultural Development,"Education, level unspecified|Other social infrastructure and services",Completion,2008,2011,908267,802633
+504,Generation of productive employment for peace building,2012-01-02T00:00:00,Joint United Nations Programme on HIV/AIDS|International Labour Organization|Norway|United Nations Peace Fund,"Other social infrastructure and services|Conflict prevention and resolution, peace and security|Education, level unspecified|Other social infrastructure and services|Other social infrastructure and services",Completion,2008,2012,4404491,4064258
+505,Peace through Justice (PtJ),2009-09-01T00:00:00,United Nations Peace Fund,"Conflict prevention and resolution, peace and security",Implementation,2008,2011,2069753,1423296
+506,"Monitoring, reporting and response to conflict related child rights violations",2010-03-01T00:00:00,United Nation Office of High Commissioner for Human Rights,"Conflict prevention and resolution, peace and security",Implementation,2010,2010,-,-
+507,Trafficking Risk Reduction in Nepal (TRRIN),2010-03-01T00:00:00,International Organization for Migration,Other social infrastructure and services,Implementation,2009,2010,206992,204263
+508,Harmonization of Protocols for Tuberculosis Diagnosis and Treatment of the Bhutanese Refugees in Nepal (HAPT,2008-12-01T00:00:00,International Organization for Migration,Health,Implementation,2008,2011,411437,519752
+509,Canadian Immigration Medical Examination and Pre-departure Medical Screening of Bhutanese Refugees in Nepal (CIMEP),2008-12-01T00:00:00,International Organization for Migration,Health,Implementation,2008,2012,104321,1270322
+510,Fairness and Efficiency in Reparations to Conflict-Affected Persons (FERC),2010-04-01T00:00:00,United Nations Peace Fund,"Conflict prevention and resolution, peace and security",Implementation,2010,2010,804819,804819
+511,USRP Project for Bhutanese Refugee,2007-08-01T00:00:00,International Organization for Migration,Other social infrastructure and services,Implementation,2007,2012,11204372,11204372
+512,Exploring Livelihood Options for Trafficked Women in Nepal (LOPS),2009-11-01T00:00:00,International Organization for Migration,Other social infrastructure and services,Implementation,2009,2011,139116,128518
+513,"NPLJ80: HIV Prevention, Care and Treatment for Female Injecting Drug Users, Female Prisoners and Women living with HIV and AIDS in Nepal",2008-05-05T00:00:00,United Nations Office of Drugs and Crime,Health,Implementation,2008,2012,5993705,4301653
+514,"NPLJ96 âTechnical assistance for a coordinated response to prevent HIV among injecting drug users and in prison settings in Nepal : advocacy, capacity building and monitoring and evaluationâ",2008-11-29T00:00:00,United Nations Office of Drugs and Crime,Health,Implementation,2008,2011,1138425,1075661
+515,Nepal Human Development:Social Protection Pilot (NHDSP),,International Development Association,Other,Implementation,2011,2013,500000,465898
+516,Nepal-Investment Climate Reform Program (NICRP),2010-05-12T00:00:00,International Finance Cooperation|Ministry of Industry,Industry,Implementation,2010,2013,8141433,3274988
+517,Skills Development Project,2013-08-01T00:00:00,Asian Development Bank,"Education, level unspecified",Implementation,2013,2013,-,152624
+518,Nepal Strengthening Public Management Program,2013-03-27T00:00:00,Department for International Development|Asian Development Bank|World Bank Trust Funds,"Government and civil society, general|Other",Implementation,2012,2013,27491624,-
+519,Support to the Implementation of Nepal's National Plan on the Elimination of Child Labour,2011-08-31T00:00:00,Denmark,Other social infrastructure and services,Completion,2011,2011,280000,280000
+520,Enhancement of Nepal Police,2012-01-14T00:00:00,China,"Government and civil society, general",Pipeline/identification,2012,2012,1545431,-
+521,Making Markets Work for the Conflict Affected Communities in Nepal Project,2012-02-17T00:00:00,World Bank Trust Funds,General budget support,Pipeline/identification,2012,2013,2598721,366614
+522,Nepal Market Development Program,2012-03-06T00:00:00,Department for International Development,General budget support,Implementation,2012,2013,21577226,752072
+523,Integrated Urban Development Project (Nepal),2012-07-04T00:00:00,Asian Development Bank,Other,Implementation,2012,2013,11782124,631311
+524,Budgetary Support (China),,China,Energy generation and supply,Pipeline/identification,2012,2012,19636874,-
+525,Sajhedari,2012-03-12T00:00:00,U.S. Agency for International Development,Other,Implementation,2012,2012,24614331,9654750
+526,Community Initiatives for Common Understanding (CICU),2013-06-03T00:00:00,U.S. Agency for International Development,Other social infrastructure and services,Implementation,2013,2013,1177005,1177005
+527,Inclusive Resource Management Initiative (IRMI),2013-06-03T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2013,2013,1202622,1184094
+528,Integrated Pest Management Collaborative Research Support program (IPM CRSP),2013-03-01T00:00:00,U.S. Agency for International Development,Agriculture,Implementation,2013,2013,516456,516456
+529,Initiative for Climate Change Adaptation (ICCA),2012-03-03T00:00:00,U.S. Agency for International Development,General environmental protection,Implementation,2012,2012,1963687,736382
+530,Knowledge-based Integrated Sustainable Agriculture and Nutrition Project (KISAN),2013-02-14T00:00:00,U.S. Agency for International Development,Agriculture,Implementation,2013,2013,21086738,6846972
+531,Health for Life,2012-12-17T00:00:00,U.S. Agency for International Development,Health,Implementation,2012,2013,17921664,4759976
+532,MEASURES,2012-07-01T00:00:00,U.S. Agency for International Development,Other social infrastructure and services,Completion,2012,2012,702018,702018
+533,Saath Saath,2011-09-30T00:00:00,U.S. Agency for International Development,Health,Implementation,2011,2012,27500000,11329589
+534,Expansion of Malaria prevention and control to At-Risk population in Nepal,,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Unspecified,Implementation,2012,2013,9824185,8037461
+535,SAMBAD: Dialogue for Peace,2013-12-19T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2013,2013,-,-
+536,Singhadurbar and Sthaniya Sarkar,2013-12-19T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2013,2013,-,-
+537,Monitoring and Evaluation Feed the Future,2014-01-13T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2014,2014,-,-
+538,Banepa polytechnic school,,China,"Education, level unspecified",Completion,2005,2011,1165438,1316644
+539,Donation of security equipment,,China,"Government and civil society, general",Implementation,2010,2010,3912805,-
+540,Procurement of vaccines (Pentavalent),,Global Alliance for Vaccines and Immunisation,Health,Implementation,2007,2011,31122077,6014250
+541,Medium and Large Development Projects (Aid to Nepal),,India,Energy generation and supply|Transport and storage,Implementation,2011,2013,-,65318175
+542,"Embankment projects under Indian grant assistance including Bagmati, Kamala, Khando and LalBakaiya",,India,Agriculture,Implementation,2011,2011,-,7681299
+543,"Nepal Round 10 Proposal to Contribute to the Achievement of Millennium Development Goals 4,5,6",2012-02-21T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2012,2013,11189340,7536873
+544,"Nepal Round 10 Proposal to Contribute to the Achievement of MDGs, 4,5,6 / Save the Children",2012-02-08T00:00:00,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2012,2013,10034432,6754015
+545,Expansion of malaria prevention and control to At-Risk populations in Nepal 2010-2016 N,,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Health,Implementation,2011,2013,2519091,1500860
+546,Nepal Bridges Improvement and Maintenance Programme,,International Development Association,Transport and storage,Pipeline/identification,2012,2013,58910622,14915275
+547,Road Improvement Project II,,India Exim Bank|India,Transport and storage,Implementation,2012,2012,61905246,-
+548,United Kingdom Multilateral Debt Relief Initiative,,Department for International Development,Action Relating to Debt,Implementation,2010,2012,-,16602565
+549,Improvement of Kathmandu Ring Road in Nepal,,China,Transport and storage,Implementation,-,-,-,-
+550,Emergency and Trauma Centre in Kathamndu,,India,Health,Implementation,-,-,-,-
+551,Nepal Family Planning Project - Family Planning Services for Excluded and Vulnerable Groups,2013-09-01T00:00:00,Department for International Development,Health,Implementation,2013,2013,23918785,-
+552,Institutionalization of the Social Inclusion Research Fund,,SNV Netherlands Development Organisation,Other social infrastructure and services,Pipeline/identification,-,-,-,-
+553,Promoting Financially Sustainable Regulatory Framework for Water Tariff in South Asia,,Asian Development Bank,Water supply and sanitation,Pipeline/identification,-,-,-,-
+554,Program for Promotion of Demand for Good Governance in Nepal (PROD) - BE (TF095128),,World Bank Trust Funds,Other,Implementation,2009,2013,2295551,1138052
+555,Development Policy Credit,,International Development Association,Banking and financial services,Implementation,2013,2013,3098741,-
+556,"Nepal Economic, Agriculture and Trade Program (NEAT)",,U.S. Agency for International Development,Agriculture|Industry|General budget support,Completion,2010,2012,23296955,22537418
+557,Hariyo Ban Program,,U.S. Agency for International Development,Forestry,Implementation,2011,2011,29947096,9000000
+558,Support to Strengthen Government of Nepal's Aid Mangement Platform Database System,2013-07-23T00:00:00,U.S. Agency for International Development,Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+559,Nepal Climate Change Support Programme,2010-12-17T00:00:00,Department for International Development|European Union,General environmental protection,Implementation,2009,2013,16474455,4829837
+560,Access to Finance for the Poor Programme,2013-11-22T00:00:00,Department for International Development,Banking and financial services,Implementation,2013,2013,-,-
+561,Nepal Climate Change Support Programme: Building Climate Resilience in Nepal(NCCSP),,Department for International Development|European Union,General environmental protection,Implementation,2012,2013,22154868,4696391
+562,Support to GEF Eligible Parties for Alignment of National Action Programs and Reporting Process under UNCCD,,Global Environment Facility,General environmental protection,Pipeline/identification,-,-,-,-
+563,Urban Transport Planning and Management,,Asian Development Bank,Other,Implementation,2012,2013,785474,341158
+564,Integrated Urban Development Project,2012-07-04T00:00:00,Asian Development Bank,Other,Implementation,2012,2013,55768723,631311
+565,"Endorsement for UNEP Umbrella Project, Support to the GEF Eligible CBD Parties for the revision of the NBSAP and Development of the Fifth National Report to the CBD.",,Global Environment Facility,General environmental protection,Pipeline/identification,-,-,-,-
+566,Bio-fortification of Trace Element Micro nutrients in food crops for the poor and vulnerable people of Nepal,,AusAid,General environmental protection,Pipeline/identification,-,-,-,-
+567,Developing low community based innovative solutions to mitigate and adapt with climate change while creating viable local business solutions,,Nordic Development Fund,General environmental protection,Pipeline/identification,-,-,-,-
+568,Municipal Solid Waste Management Project,,International Development Association,Other,Pipeline/identification,-,-,-,-
+569,Kathmandu Valley Waste water Management Project,2013-07-31T00:00:00,Asian Development Bank,Other,Implementation,2013,2013,82633107,-
+570,Micro Enterprise Development Programme ( MEDEP) IV,2013-08-01T00:00:00,AusAid,Industry,Implementation,2013,2013,-,2958507
+571,Australian Aid âNGO Cooperation Program ( ANCP),2013-07-01T00:00:00,AusAid,"Health|Government and civil society, general|Other social infrastructure and services",Implementation,2011,2013,5560292,5579520
+572,Koshi Basin Program Phase 1 (ICIMOD),2012-03-01T00:00:00,AusAid,General environmental protection,Implementation,2012,2012,-,485869
+573,World Food Programme MRC & SFP 2010-2012,2010-07-01T00:00:00,AusAid,Other social infrastructure and services,Completion,2010,2011,-,437187
+574,Water and Sanitation Initiative Global Programming,2009-06-10T00:00:00,AusAid,Water supply and sanitation,Implementation,2009,2011,68795,68795
+575,Development Gateway Foundation,,AusAid,Unallocated/ unspecified,Completion,2011,2011,97943,97943
+576,UNCERF (Central Emergency Response Fund) -Multi-year Commitment 2010 - 2013 - UNOCHA,2009-12-09T00:00:00,AusAid,Other social infrastructure and services,Completion,2009,2012,78957,78957
+577,Empowering the Poor through increasing access to Energy - ADB Regional Energy,2012-05-15T00:00:00,AusAid,Energy generation and supply,Implementation,2012,2012,576424,576424
+578,South Asia Water Initiative - Climate Change and Water,2012-05-01T00:00:00,AusAid,General environmental protection,Completion,2012,2012,99437,99437
+579,South Asia Food and Nutrition Security Initiative (SAFNSI),2011-05-03T00:00:00,AusAid,Other social infrastructure and services,Implementation,2011,2012,156560,156560
+580,International Planned Parenthood Federation (IPPF) South Asia Strategic Plan 2010-2015,2011-05-01T00:00:00,AusAid,Health,Implementation,2011,2012,935652,935652
+581,South Asia Public Sector Linkages Program (PSLP) initiative,2009-07-01T00:00:00,AusAid,"Education, level unspecified",Implementation,2009,2011,321196,321196
+582,Monitoring and Reporting Mechanism on Grave Violations Against Children in Armed Conflicts (Global)-UNICEF,2009-07-01T00:00:00,AusAid,"Conflict prevention and resolution, peace and security",Implementation,2009,2011,1320859,201045
+583,Colombo Plan & Drug Advisory Programme II,2009-07-01T00:00:00,AusAid,"Government and civil society, general|Other social infrastructure and services",Completion,2009,2011,14252,14252
+584,South Asia Water Initiative (SAWI),2009-05-25T00:00:00,AusAid,General environmental protection,Completion,2009,2011,1320859,1320859
+585,South Asia Regional Program Management (AUSAID),,AusAid,Unallocated/ unspecified,Implementation,2011,2011,-,64162
+586,Australian Centre for International Agricultural Research (ACIAR)Projects in Nepal,,AusAid,Agriculture,Completion,2011,2011,342042,342042
+587,Partnerships: Research and Analytical -INTERNATIONAL CRISIS GROUP,2009-06-05T00:00:00,AusAid,"Conflict prevention and resolution, peace and security",Completion,2009,2011,40731,40731
+588,Multilateral climate change mitigation - World Bank,2012-03-05T00:00:00,AusAid,General environmental protection,Completion,2011,2012,1430930,1430930
+589,Better Governance and Leadership - World Bank Governance Partnership Facility,2011-09-24T00:00:00,AusAid,"Government and civil society, general",Completion,2011,2011,294375,294375
+590,Technical Assistance for scaling up the nutrition Initiative (Nepal)- SUNITA,,AusAid,Other social infrastructure and services,Implementation,2011,2012,2032148,2032148
+591,School Sector Reform Program (School Safety Component),2012-01-31T00:00:00,AusAid,"Education, level unspecified",Implementation,2011,2012,4295024,3854010
+592,Public Financial Management Support Multi-Donor Trust Fund Contribution (Nepal),2011-04-28T00:00:00,AusAid,Banking and financial services,Implementation,2011,2013,2975676,2975676
+593,Koshi Coridor 220KV Transmission Line,,India Exim Bank,Energy generation and supply,Pipeline/identification,2012,2012,88365934,-
+594,Support to Nepalâs Transition through improved UN Coherence,2010-08-01T00:00:00,Swiss Agency for Development and Cooperation|Department for International Development|United Nations Development Programme|United Nations Peace Fund|United Nation Office of High Commissioner for Human Rights|Norway|AusAid,"Conflict prevention and resolution, peace and security",Implementation,2009,2013,7084160,7148306
+595,Community Based Flood & Glacial Lake Outburst Risk Reduction,2011-09-01T00:00:00,Global Environment Facility,Energy generation and supply,Pipeline/identification,2011,2012,62347,58568
+596,Ecosystem Based Adaptation in Mountain Ecosystems,2012-02-07T00:00:00,United Nations Environment Programme,General environmental protection,Pipeline/identification,2012,2013,1700286,707603
+597,Strengthening Rule of Law and Human Rights Protection System in Nepal Programme,2013-04-23T00:00:00,United Nations Development Programme|Norway|United Nations Peace Fund,"Government and civil society, general",Implementation,2013,2013,6610648,2217232
+598,Strengthening National Planning and Monitoring Capacity,2013-07-01T00:00:00,United Nations Development Programme,Other social infrastructure and services,Implementation,2013,2013,-,550602
+599,Nepal Climate Change Support Programme (NCCSP),2013-01-10T00:00:00,"Department for International Development|Ministry of Science, Technology and Environment",Energy generation and supply,Implementation,2012,2013,4436074,1634063
+600,Project to Prepare the Public Administration for State Reforms (PREPARE),2013-03-14T00:00:00,United Nations Development Programme,"Government and civil society, general",Implementation,2013,2013,929622,413165
+601,Strengthening the Monitoring and Evaluation System in Nepal - Phase II,2011-11-16T00:00:00,Japan International Cooperation Agency,Other social infrastructure and services,Implementation,2011,2013,2985636,1513081
+602,Trial Bridge Sub Sector Programme III,2011-01-01T00:00:00,Swiss Agency for Development and Cooperation,Transport and storage,Implementation,2010,2012,10240729,9458511
+603,Strengthening the Accountability of Local Government,2013-07-16T00:00:00,Swiss Agency for Development and Cooperation,Other,Implementation,2012,2013,5279835,385545
+604,Legal Aid to Improve People's Access to Criminal Justice,2013-01-21T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Implementation,2012,2013,524134,214653
+605,Rehalibitation of Critical Trail Bridges,2013-01-16T00:00:00,Swiss Agency for Development and Cooperation,Transport and storage,Implementation,2012,2013,534831,535064
+606,Support to HRDC Hospital and Reserach Centre,2012-12-20T00:00:00,Swiss Agency for Development and Cooperation,Health,Implementation,2012,2012,502741,385247
+607,MSFP - Interim Forestry Project,2011-07-17T00:00:00,Department for International Development|Swiss Agency for Development and Cooperation,Forestry,Completion,2011,2012,3937135,3395041
+608,POWER PLANT EXTENSION SALLERI CHIALSA ELECTRICITY COMPANY (SCECO) â SINGLE PHASE,2011-09-01T00:00:00,Swiss Agency for Development and Cooperation,Energy generation and supply,Implementation,2011,2013,619502,611420
+609,Trade Promotion Programme (TPP),,Deutsche Gesellschaft fÃ¼r Internationale Zusammenarbeit,Business and other services,Pipeline/identification,-,-,-,-
+610,Save the Children Strategic Framework for Cooperation 2010 -2012,2010-02-05T00:00:00,Norway,Other social infrastructure and services,Implementation,2010,2012,5110932,5280996
+611,"Cultural Heritage Presevation ""Bhaidegah Temple""",,Norway,Other social infrastructure and services,Pipeline/identification,-,-,-,-
+612,Preparing for the rehabilitation of Maoist combattants in the cantone,,Norway,"Conflict prevention and resolution, peace and security",Implementation,2010,2012,2565823,2121446
+613,"Peacebuilding and collaborative leadership, phase 1",,Norway,"Conflict prevention and resolution, peace and security",Implementation,2011,2011,152158,152158
+614,Sankalpa - Empowerment of Women for Political and Social Justice,,Norway,Other social infrastructure and services,Implementation,2011,2013,2296474,823595
+615,IPWA Ensuring equal representation in policy and decision making,,Norway,Other social infrastructure and services,Implementation,2012,2013,652738,222580
+616,Support to Transitional Justice efforts in Nepal,,Norway,Other social infrastructure and services,Implementation,2012,2013,-,457312
+617,Child Friendly Local Governance CFLG,2013-05-13T00:00:00,Norway,Other,Implementation,2013,2013,7122683,2499099
+618,"SAFE Media Nepal: A Safe, Able, Free and Empowered media for the promotion of human rights, democracy and peace in Nepal (CTR 267681)",2012-03-01T00:00:00,European Union,Communications,Implementation,2012,2013,315023,217949
+619,Mukti: enhanced capacity of civil society in Nepal to unite and demand state accountability and ensure protection and promotion of Haliya rights (CTR 267705),2012-01-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2012,2013,396170,237148
+620,Reducing social tensions and social crimes and enhancing telerance for sustainable peace conciliation process in North-west communities of Kapivastu district (CTR 234000),,European Union,"Conflict prevention and resolution, peace and security",Implementation,2010,2012,49546,38622
+621,VSBK â Vertical Shaft Brick Kilns and other SCP â Sustainable Construction Practices (CTR 262897),2012-01-01T00:00:00,European Union,General budget support|Industry,Implementation,2011,2013,2598621,1629023
+622,Sustainable & Efficient Industrial Development (SEID),2012-02-01T00:00:00,European Union,Industry,Implementation,2012,2012,2567187,690816
+623,Agriculture and Nutrition Extension Project (ANE) - CTR 261122,2011-12-17T00:00:00,European Union,Agriculture,Implementation,2011,2013,4813050,2212562
+624,Support to Election Commission,,European Union,"Conflict prevention and resolution, peace and security",Pipeline/identification,-,-,-,-
+625,Electoral education at grassroots and district levels for democratic governance (CTR,2012-04-03T00:00:00,European Union,Other social infrastructure and services,Implementation,2012,2013,459781,313532
+626,International Protection and Assistance to the Refugees from Bhutan in the Camps in Eastern Nepal (CTR 281601),,European Union,Other social infrastructure and services,Implementation,2013,2013,"",999368
+627,Safe Passage: Making the mobility safe by reducing the vulnerability and impact of HIV and AIDS - Nepal (CTR 133554),2008-01-01T00:00:00,European Union,Health,Implementation,2008,2012,1150857,1194651
+628,"A Collaborative Approach Promoting Child Rights, Non-Discrimination and Child Participation (CTR 292546)",2013-02-01T00:00:00,European Union,Other social infrastructure and services,Pipeline/identification,2013,2013,423036,129166
+629,Strengthening participation and influence of poor and vulnerable farmers and fishermen in decision-making processes related to food security (CTR 301109),2013-01-01T00:00:00,European Union,Agriculture,Pipeline/identification,2012,2013,1558894,361275
+630,Go International (CTR 308308),2012-12-15T00:00:00,European Union,Business and other services,Pipeline/identification,2012,2013,-,163884
+631,Green Homes- promoting sustainable housing in Nepal (CTR 291499),2013-02-01T00:00:00,European Union,Other social infrastructure and services,Pipeline/identification,2013,2013,1213731,284091
+632,Unnati (Prosperity)CRT 308298,,European Union,General budget support,Pipeline/identification,2012,2013,571356,146225
+633,Economic Growth for Social Justice: Supporting NTFP trade and business development in Karnali (CRT 287648),2012-04-07T00:00:00,European Union,Other,Pipeline/identification,2012,2013,-,248112
+634,Skill Development and Employment for the Informal Sector in Nepal (CRT 231089),2011-01-01T00:00:00,European Union,Other social infrastructure and services,Pipeline/identification,2011,2013,-,610806
+635,Sustaining the gains of foreign labour migration through the protection of migrant workersâ right. (CRT 228848),2011-01-17T00:00:00,European Union,Other social infrastructure and services,Pipeline/identification,2011,2013,-,241795
+636,"Empowering marginalised and conflict affected communities for promoting human rights, democracy and peace. (CRT 234035)",2011-01-01T00:00:00,European Union,Other,Implementation,2011,2013,-,10688
+637,Improving the quality of life of vulnerable target groups in the Eastern Region of Nepal by improving eye care and sight restoration. (CRT 133557),2007-12-12T00:00:00,European Union,Other,Implementation,2007,2013,-,393630
+638,STrengthening capacities and coordination among actors working with street children. (CRT 158243) National Alliance of Organization for street children,2009-02-10T00:00:00,European Union,Other social infrastructure and services,Implementation,2009,2013,-,9752
+639,Climate Smart Agriculture,2013-04-01T00:00:00,SNV Netherlands Development Organisation,Agriculture,Implementation,2013,2013,620408,13517
+640,Sustainable Sanitation and Hygiene for All (SSH4A),2012-01-01T00:00:00,SNV Netherlands Development Organisation,Other,Implementation,2012,2013,140867,37445
+641,Urban Sustainable Sanitation and Hygiene for All (USSH4A),2013-01-01T00:00:00,SNV Netherlands Development Organisation,Other,Implementation,2012,2013,258792,51260
+642,Improve Cooking Stove Programme (ICSP),2013-01-01T00:00:00,SNV Netherlands Development Organisation,Energy generation and supply,Implementation,2012,2013,406839,174987
+643,UNICEF country programme July to December 2010,,United Nations Children's Fund,"Other social infrastructure and services|Other|Water supply and sanitation|Health|Education, level unspecified",Completion,2010,2010,13113717,13113717
+644,"Output 1 (NPL7U601): Strengthened capacity of health institutions and service providers to plan, implement and monitor high-quality comprehensive sexual and reproductive health services (Off Budget)",2013-02-12T00:00:00,United Nations Population Fund,Unspecified,Pipeline/identification,2013,2013,833056,693542
+645,"Output 1 (NPL7U601) : Strengthened capacity of health institutions and service providers to plan, implement and monitor high-quality comprehensive sexual and reproductive health services (On Budget)",2013-02-12T00:00:00,United Nations Population Fund,Unspecified,Pipeline/identification,2013,2013,38580,312333
+646,Output 2 (NPL7U602): Increased capacity of women and youth to access high-quality sexual and reproductive health services (Off Budget),2013-02-12T00:00:00,United Nations Population Fund,Unspecified,Pipeline/identification,2013,2013,511446,457013
+647,Output 2 (NPL7U602): Increased capacity of women and youth to access high-quality sexual and reproductive health services (On Budget),2013-02-12T00:00:00,United Nations Population Fund,Unspecified,Pipeline/identification,2013,2013,-,39839
+648,Output 1 (NPL7U501): Strengthened national and subnational health-system capacity within the coordinated multisectoral response to sexual and gender-based violence (Off Budget),2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,338719,72069
+649,Output 1 (NPL7U501): Strengthened national and subnational health-system capacity within the coordinated multisectoral response to sexual and gender-based violence (On budget),,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,-,15664
+650,Output 2 (NPL7U502): Enhanced capacity  of men and women to prevent gender-based violence and support women seeking multisectoral services on gender-based violence (Off Budget),2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,518808,430553
+651,Output 2 (NPL7U502): Enhanced capacity  of men and women to prevent gender-based violence and support women seeking multisectoral services on gender-based violence (On Budget),2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,-,6405
+652,Output 2 (NPL7U503): Enhanced capacity  of men and women to prevent gender-based violence and support women seeking multisectoral services on gender-based violence (Off budget),2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,268662,204645
+653,Output 2 (NPL7U503): Enhanced capacity  of men and women to prevent gender-based violence and support women seeking multisectoral services on gender-based violence (On Budget),2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+654,"Output 1 (NPL7U101): Strengthened capacity of relevant government ministries at national and subnational levels to address population dynamics and its interlinkages in policies, programmes and budgets (Off Budget)",2013-02-12T00:00:00,United Nations Population Fund,Other|Other social infrastructure and services|Population policies/ programmes and reproductive health,Pipeline/identification,2013,2013,516350,410995
+655,"Output 1 (NPL7U101): Strengthened capacity of relevant government ministries at national and subnational levels to address population dynamics and its interlinkages in policies, programmes and budgets (On Budget)",2013-02-12T00:00:00,United Nations Population Fund,Other|Other social infrastructure and services|Population policies/ programmes and reproductive health,Pipeline/identification,2013,2013,116844,139816
+656,"Output 2 (NPL7U102): Improved data availability and analysis for evidence-based decision-making and policy formulation on population dynamics, adolescent sexual and reproductive health, and gender equality (Off Budget)",2013-02-12T00:00:00,United Nations Population Fund,Other|Population policies/ programmes and reproductive health,Pipeline/identification,2013,2013,325434,208287
+657,"Output 3 (NPL7U103): Strengthened capacity of networks for youth and for vulnerable women at central and local levels to influence development policies, plans and budgets (On Budget)",2013-02-12T00:00:00,United Nations Population Fund,Other social infrastructure and services|Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+658,NPL7A101: Programme Coordination and Assistance (PCA:Off Budget),2013-02-12T00:00:00,United Nations Population Fund,Unspecified,Pipeline/identification,2013,2013,309151,256545
+659,"SENEP1206741 - Programme for Immunization Preventable Diseases, WHO Nepal",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,110948,88660
+660,SENEP1206530 - Diseases Surveillance and Epidemiology/Neglected Tropical Disease Elimination and Control/Malaria Elimination/Blood Safety and Laboratory Technology,2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,416301,338509
+661,"SENEP1206743 - To combat HIV/AIDs, Tuberculosis in Nepal",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,172804,151454
+662,"SENEP1206761 - NCD, Mental Health and Disabilities Prevention and Control",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,381937,489119
+663,"SENEP1206729 - Improving health during key stage of life including pregnancy, childbirth, neonatal period, childhood, adolescent, older age promoting gender equality, equity and human rights",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,368191,311917
+664,"SENEP1206771 - To improve health services through better governance, financing, staffing and management to improve knowledge, management and information technology and the use of essential medicines",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,1090828,1421721
+665,"SENEP1206682 - Environmental Health, Nutrition and Food Safety",2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,545905,802391
+666,SENEP1206730 - Reduce the health consequences of emergencies and conflicts,2012-01-01T00:00:00,World Health Organization,Health,Implementation,2012,2013,162004,121467
+667,"TFD-10/NEP/003: Improving nutritional status of children by demonstrating kitchen garden model in school and its vicinity - Jhirubas-4, Palpa",,Food and Agriculture Organization,Agriculture,Completion,2012,2012,9749,9749
+668,"TFD-10/NEP/004: Improving nutritional status of school children and community people through increased productiona nd consumption of fruits and vegetables,  Ruppakot-VDC-9, Tahanun",2012-03-15T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2012,2012,-,-
+669,"TFD-10/NEP/006 - Improving nutritional status of school children and community people through increased production and consumption of fruits and getetables, Nirmal Pokhari VDC, Watd No. 1, Kaski",2012-03-15T00:00:00,Food and Agriculture Organization,Agriculture,Completion,2012,2012,8959,8836
+670,"TFD-11/NEP/002_ Improving nutritional status of children by demonstrating kitchen garden model in schools and its vicinity, Gorkha-1",2012-05-25T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2012,2012,4889,-
+671,Conducting reinforcement training for district level womenâs organization on gender sensitive transitional justice through supporting individual trainees to undertake district level advocacy initiatives - (WHR),2011-09-09T00:00:00,Women For Human Rights Single Womengroup Association,"Conflict prevention and resolution, peace and security",Completion,2011,2012,1167500,15583
+672,Mobilizing Media for Raising Awareness on Gender Based Violence,2011-01-06T00:00:00,United Nations Development Fund for Women,Communications,Completion,2011,2012,16347,15771
+673,Conducting Baseline Survey on the Status on the Conflict Affected Women,2012-02-01T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Completion,2012,2012,22738,20729
+674,Strengthening National and Local Level Capacity for Gender Responsive Transitional Justice - (ICTJ),2012-02-01T00:00:00,International Center for Transitional Justice,"Conflict prevention and resolution, peace and security",Completion,2012,2013,133559,128870
+675,Mainstreaming Gender in Institutional Practices of Political Parties,2011-12-23T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Completion,2011,2012,28736,27917
+676,Produce Video Documentary on the Impact of Armed Conflict on Women and their Role in Peacemaking Initiatives,2011-01-01T00:00:00,Media Service Nepal,"Conflict prevention and resolution, peace and security",Completion,2010,2013,13458,13120
+677,Sustaining the gains of foreign labour migration through the protection of migrant workersâ rights-People Forum,2011-09-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2010,2013,606996,469366
+678,Tracking Study of Gender Based Violence Cases in Nepal - (UCL),2012-04-15T00:00:00,United Nations Development Fund for Women,"Government and civil society, general",Completion,2012,2012,19080,-
+679,Economic Empowerment of Women through effective policy response programme with focus on Foreign Labour Migration,2013-07-01T00:00:00,Ministry of Labour & Employment,General budget support,Pipeline/identification,2013,2013,-,-
+680,Development of a Booklet and Video on Sustaining the Gains of Foreign Labour Migration through the Protection of Migrant Workersâ Rights,2013-05-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Completion,2013,2013,2009,8036
+681,"Strengthening Implementation of the Women, Peace and Security Agenda in Nepal: Towards Implementation of the National Action Plan on UNSCRs 1325 and 1820",2013-07-01T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Completion,2013,2013,152118,-
+682,"FOR CREATING A POOL OF LOCAL LEVEL COUSELORS TO PROVIDE PSYCHO-SOCIAL COUSELING SERVICES TO THE CONFLICT AFFECTED WOMEN AND GIRLS IN THREE PROJECT DISTRICTS (KAVRE, RAMECHAAP AND SINDHULI) â GENDER RESPONSIVE RECOVERY FOR SUSTAINABLE PEACE",2013-07-22T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,-,8726
+683,Economic empowerment of women through effective policy response programme with focus on foreing labour migration (MOLE),2013-06-22T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+684,"Implementing Activities of the Project âStrengthening Implementation of the Women, Peace and Security Agenda in Nepal: Towards Implementation of the National Action Plan on UNSCRs 1325 and 1820â - MWCSW",2013-08-01T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+685,"Implementing Activities of the Project âPromoting Gender Responsive Security Sector (PROGRESS): Towards Implementation of UNSCRs 1325 and 1820â with the Ministry of Defence, Government of Nepal",2013-07-01T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Implementation,2013,2013,24350,15634
+686,"For conducting Womenâs Safety Audits in one selected VDC in each of the six project districts in Mid, Far and Central Region to promote safe communities for all-Didibahini",2013-08-01T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,-,-
+687,"Promoting Womenâs Rights, Protection and Participation in the Post Conflict Situation through strengthening of District Coordination Committee,enhancing leadership skills of women, providing coaching to prepare for civil service examination - (SFCG)",2013-07-26T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,-,44229
+688,Final Evaluation of MP3W programme-(MITRA),2013-05-15T00:00:00,United Nations Development Fund for Women,"Government and civil society, general",Pipeline/identification,2013,2013,10792,2097
+689,Final Evaluation of the programme on âSustaining the Gains of Foreign Labour Migration through the Protection of Migrant Workersâ Rightsâ,2013-09-11T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Implementation,2013,2013,-,11236
+690,Development of a Booklet and Video on Sustaining the Gains of Foreign Labour Migration through the Protection of Migrant Workersâ Rights-Interface Nepal,,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,10681,-
+691,Strengthening capacity of NWC to promote womenâs empowerment and gender equality issues effectively in Nepal(Shantimalika),2013-06-01T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,90552,17727
+692,"To enhance the capacity of local stakeholders on women, peace and security agenda in Kavre, Ramechap and Sindhuli districts on the implementation of the National Action Plan (NAP) on UNSCRs 1325 and 1820 in the districts - (WHR)",2013-07-17T00:00:00,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,2013,2013,-,17089
+693,"Strengthening Implementation of the Women, Peace and Security Agenda in Nepal: Towards Implementation of National Action Plan on UNSCRs 1325 and 1820-Bajhang",,United Nations Development Fund for Women,"Conflict prevention and resolution, peace and security",Pipeline/identification,-,-,-,-
+694,Developing Capacity of Law Enforcement Officials and Government Officials in Implementing the In-Camera Hearing Guideline and Standard Operating Procedure (SOP) in Five Districts of Far and Mid-Western Nepal - (NJA),2013-10-08T00:00:00,United Nations Development Fund for Women,Other social infrastructure and services,Pipeline/identification,2013,2013,-,-
+695,"âStrengthening Implementation of the Women, Peace and Security Agenda in Nepal: Towards Implementation of National Action Plan on UNSCRs 1325 and 1820â in Kailali district-BASE",,UNWOMEN,"Conflict prevention and resolution, peace and security",Pipeline/identification,-,-,-,-
+696,CONDUCTING AWARENESS CAMPAIGN IN THE CONSTITUENCIES FOR GENDER RESPONSIVE ELECTORAL PROCESS - (PRO-PUBLIC),2013-10-09T00:00:00,United Nations Development Fund for Women,"Government and civil society, general",Pipeline/identification,2013,2013,-,-
+697,61-13104012-KAT (Education) Promoting education for sustainable development with a particular focus on integrating disaster risk reduction and management in the education sector,,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Implementation,2012,2013,19636,9255
+698,64-11204012-KAT (Culture) Enhancing national capacities for the effective implementation of the World Heritage Convention 1-4,,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Implementation,2012,2013,19636,15046
+699,64-11204019-KAT (Culture) Contributing to the protection of cultural heritage in Nepal,,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Implementation,2013,2013,114381,52090
+700,65-11104001-KAT (CI) Increasing Awareness of Freedom of Expression and Freedom of Information,,"United Nations Educational, Scientific and Cultural Organization",Communications,Implementation,2012,2013,11742,7289
+701,65-12104001-KAT (CI) Following up on the media assessment based on MDIs,,"United Nations Educational, Scientific and Cultural Organization",Communications,Implementation,2012,2013,10309,4622
+702,"65-21204002-KAT (CI) Creating conditions for the safeguarding of documentary heritage as a symbolic force for peace, social stability and national identity",,"United Nations Educational, Scientific and Cultural Organization",Communications,Implementation,2012,2013,11968,7171
+703,553 RAS 4005.5 (Culture) Strengthening capacities of Nepal for implementing the Convention for the Safeguarding of the Intangible Cultural Heritage,,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Implementation,2013,2013,53186,27214
+704,216 NEP 4000 (Culture) UNESCO/UNDP Lumbini Development Support Team,,"United Nations Educational, Scientific and Cultural Organization",Other social infrastructure and services,Implementation,2013,2013,103312,44559
+705,549NEP5000 (CI) - Empowering people to enjoy their Right to Information for greater accountability of Nepal's power holders,,European Union,Communications,Implementation,2013,2013,406439,99765
+706,467GLO1007.26 (ED) - CAP EFA: Capacity Assessment for Non-formal Education in Nepal,,"United Nations Educational, Scientific and Cultural Organization","Education, level unspecified",Implementation,2013,2013,464811,165828
+707,District Level Master Triggerersâ ToT on Total Sanitation in Bajura District,2011-12-07T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,14991,10303
+708,District Level Master Triggerersâ ToT on Total Sanitation in Bardiya District including Gulariya and Tikapur Municipalities,2011-12-07T00:00:00,United Nations Human Settlements Programme,Health,Completion,2011,2012,15000,14727
+709,"Orientation on Total Sanitation and Behavioural Change to Schools, Communities and Local Stakeholders in Bajura",2011-12-08T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,67000,46048
+710,"Orientation on Total Sanitation and Behavioural Change to Schools, Communities and Local Stakeholders in Bardiya",2012-01-19T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,65756,19727
+711,"Orientation on Total Sanitation and Behavioural Change to Schools, Communities and Local Stakeholders in Gulariya and Tikapur Municipalities",2012-01-23T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,8836,6185
+712,Capacity Development of Stakeholders on Sector Coordination and Planning in Bajura,2011-12-07T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,16000,12567
+713,Capacity Development of Stakeholders on Sector Coordination and Planning in Bardiya,2011-12-07T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2011,2012,15990,12559
+714,"Orientation and Sensitization of District and VDC Level Stakeholders in Sector Coordination, Planning and implementation in Sunsari District",2012-07-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,34753,13900
+715,"Orientation on Total Sanitation and Behavioural Change to Schools, Communities and Local Stakeholders in Sindhupalchowk",2012-06-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,178503,53550
+716,Open Defecation Free Campaign and Sanitation and Hygiene Behavioural Promotion in Bardiya-II,2012-07-05T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,134460,40339
+717,Open Defecation Free Campaign and Sanitation and Hygiene Behavioural Promotion in Arghakhanchi,2012-07-04T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,293513,88053
+718,Open Defecation Free Campaign and Sanitation and Hygiene Behavioural Promotion in Sindhupalchowk,2012-06-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,276714,83013
+719,"Capacity Building on Total Sanitation and Behavioural Change to Schools, Communities and Local Level Stakeholders inÂ Bardiya Districts - II",2012-07-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,91205,27362
+720,"Capacity Building on Total Sanitation and Behavioural Change to Schools, Communities and Local Level Stakeholders inÂ  Arghakhanchi",2012-07-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,206589,61976
+721,"Capacity Building on Total Sanitation and Behavioral Change to Schools, Communities and Local Level Stakeholders inÂ Sunsari Districts",2012-07-20T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,174651,52396
+722,Orientation and Sensitization of District and VDC Level Stakeholders in Sector Coordination Planning and Implementation in Sindhupalchowk District,2012-07-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,37015,14806
+723,Orientation and Sensitization of District and VDC Level Stakeholders in Sector Coordination Planning and Implementation in Arghakhanchi,2012-06-18T00:00:00,United Nations Human Settlements Programme,Health,Implementation,2012,2012,33570,10070
+724,Gender Responsive Recovery for Sustainble Peace,2012-07-24T00:00:00,United Nations Peace Fund,Other social infrastructure and services,Implementation,2012,2012,288210,288210
+725,Way out of informality: Facilitating formalization of informal economy in Nepal.,2012-09-03T00:00:00,Japan,Other social infrastructure and services,Implementation,2012,2013,981843,152913
+726,"More and Better Jobs, especially for vulnerable groups.",2012-03-15T00:00:00,International Labour Organization,"Other social infrastructure and services|Government and civil society, general",Implementation,2012,2013,248028,930040
+727,Capacity building of ILO Constituents and major Stakeholders towards creating enabling environment for jobs.,2012-01-02T00:00:00,International Labour Organization,Other social infrastructure and services|Industry|Other social infrastructure and services|Other social infrastructure and services,Implementation,2012,2013,1326005,1203746
+728,ILO-DFID Partnership Programme on Fair Recruitment and Decent Work for Women Migrant Workers in South Asia and the Middle East,2013-07-15T00:00:00,Department for International Development,Other social infrastructure and services|Other social infrastructure and services,Implementation,2013,2013,2063596,807463
+729,"Promoting the Effective Governance of Labour Migration from South Asia through Actions on Labour Market Information, Protection during Recruitment and Employment, Skills, and Development Impact",2013-07-01T00:00:00,International Labour Organization|European Union,"Other social infrastructure and services|Government and civil society, general",Implementation,2013,2013,1323679,568102
+730,Towards Achieving the Elimination of the Worst Forms of Child Labour as Priority (ACHIEVE),2013-07-01T00:00:00,Denmark,Other social infrastructure and services|Other social infrastructure and services,Implementation,2013,2013,601155,601155
+731,Nepal Public Financial Management Multi-Donor Trust Fund (PFM Grant No. TF 010455),2012-02-23T00:00:00,World Bank Trust Funds,General budget support,Implementation,2012,2012,2258240,583005
+732,Project Preparatory facility for Energy (PPFE),,Asian Development Bank,Energy generation and supply,Pipeline/identification,-,-,-,-
+733,Nepal Agriculture and Food Security Project,2013-04-30T00:00:00,World Bank Trust Funds,Agriculture,Implementation,2013,2013,48030493,""
+734,Fish Farming Development in Nepal,2012-04-17T00:00:00,Norway,Agriculture,Implementation,2012,2012,3157273,518037
+735,The Food Security Project for Underprivileged Farmers- 2012(KR2),2012-04-29T00:00:00,JapanKR2,Agriculture,Completion,2012,2013,3050146,2720785
+736,Urgent Food Security Assistance to Severely Food Insecure Rural Households in Karnali-Bheri Regions of Nepal,,Food and Agriculture Organization,Agriculture,Completion,2012,2012,782417,-
+737,Regional TA: Design and Implementation of Policy Approaches to Address Risk and Vulnerability of the Rural Poor at the Country Level,,Food and Agriculture Organization,Agriculture,Pipeline/identification,-,-,-,-
+738,ReTA on Ecosystem Based Adaptation in Mountain Ecosystems in Nepal,2012-08-16T00:00:00,Food and Agriculture Organization,Forestry,Implementation,2012,2012,3311402,-
+739,Zoonoses Control Project,2012-07-05T00:00:00,International Development Association,Health|Other,Implementation,2012,2013,9818437,1549370
+740,Ginger Competitiveness Project: Enhancing Sanitary and Phytosanitary Capacity of Nepalese Ginger Exports through Public Private Partnerships,2012-07-18T00:00:00,World Trade Organization,Agriculture,Implementation,2012,2012,-,-
+741,Enhancing Economic Analysis and South-South Learning,2012-10-01T00:00:00,Asian Development Bank,General budget support,Pipeline/identification,2012,2012,-,-
+742,Policy assistance for bio-secure agro-food supply chain enhanced market access and food security for the small holding rural sector,2012-09-20T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2012,2012,321062,-
+743,Kisankalagi Unnat Biu-Bijan Karyakram- Improved Seeds for Farmers Programme,2012-12-02T00:00:00,International Fund for Agricultural Development,Agriculture,Implementation,2012,2013,38641412,2621817
+744,Sustainable Management and Development of NTFPs in Tarai and Siwalik Regions of Nepal,,Food and Agriculture Organization,Forestry,Pipeline/identification,-,-,-,-
+745,UNNATI- Inclusive Growth Programme in Nepal,2013-12-16T00:00:00,Denmark,Agriculture,Pipeline/identification,2013,2013,-,-
+746,Strengthening Higher Engineering Education,,Asian Development Bank,"Education, level unspecified",Pipeline/identification,2011,2013,550000,270757
+747,Empowering Rural Community-Reaching the Unreached (SDF-ICT),2012-10-08T00:00:00,South Asian Association For Regional Cooperation,Communications,Implementation,2012,2012,-,-
+748,USAID Support to Nepal Peace Trust Fund,2012-10-10T00:00:00,U.S. Agency for International Development,"Conflict prevention and resolution, peace and security",Implementation,2012,2013,490921,516456
+749,Acquisition of 3 Turbo-Prop(MA 60)and 5 STOL(Y12E)Aircraft from AVIC International Holding Corporationof China to Nepal Airlines Corporation.,,China,Transport and storage,Pipeline/identification,-,-,-,-
+750,UK support to Build Earthquake Resilience in Nepal,2012-09-04T00:00:00,Department for International Development,General environmental protection,Implementation,2012,2013,27462306,10759996
+751,Enhance the capacity of Police Forces of Nepal.,2011-08-17T00:00:00,China,"Government and civil society, general",Pipeline/identification,2011,2011,939245,-
+752,Security Equipment for the Police.,2011-08-17T00:00:00,China,"Government and civil society, general",Pipeline/identification,2011,2011,1565411,-
+753,Armed Police Force College,2012-01-14T00:00:00,China,"Government and civil society, general",Pipeline/identification,2012,2012,61816,-
+754,Water Resources Project preparatory Facility.,2012-11-02T00:00:00,Asian Development Bank,Agriculture,Implementation,2012,2012,10800280,-
+755,"Sunaula Hazar Din ,Community Action for Nutrition Project",2012-07-13T00:00:00,World Bank Trust Funds,Other,Implementation,2012,2013,39273748,2065827
+756,Establishing Women and Children Service Centers,2010-01-19T00:00:00,Department for International Development|Japan Fund for Poverty Reduction,Other social infrastructure and services,Implementation,2010,2013,3864729,-
+757,Nepalese - German Manuscript Cataloguing Project,2002-08-02T00:00:00,German Nepal Help Association,Tourism,Implementation,2002,2012,2201196,-
+758,Rural Access Programme Phase III,2013-01-31T00:00:00,Department for International Development,Other,Implementation,2013,2013,56245494,-
+759,"Rural Water Supply and Sanitation Project in Western Nepal, Completion Phase (RWSSP- WN II)",2013-09-16T00:00:00,Finland,Other,Implementation,2013,2013,-,-
+760,"Local Governance and Community Development Programme, Phase II (LGCDP II)",,Department for International Development|Swiss Agency for Development and Cooperation,Other,Pipeline/identification,-,-,-,-
+761,Integrated Food Security Phase Classification (IPC)in Asia.,2011-11-01T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2011,2012,1800054,701584
+762,Supporting the achievement of the Millineum  goals in Asia and the Pacific(Phase III),,The United Nations Economic and Social Commission for Asia and the Pacific,Other social infrastructure and services,Completion,2011,2011,7000,-
+763,Support to the Development and Piloting of an Open Source Cadastre and Registration (OSCAR) Software Shell,2011-01-01T00:00:00,Food and Agriculture Organization,Agriculture,Implementation,2010,2011,2961820,-
+764,Improving Research Capacity of Forest Resource Information Technology  (IRCFRIT),2010-01-01T00:00:00,Finland,Forestry,Completion,2009,2010,370490,-
+765,TA-Demonstration of sustainable Forest Management with Community Participation in Nepal,2011-04-01T00:00:00,Association Planet Finance,Forestry,Completion,2011,2011,500179,-
+766,Strengthening Capacity of the department of National Parks and Wildlife Conservation for Effective Management of Mountain Protected Area,,World Bank Trust Funds,Forestry,Implementation,2011,2013,500000,178191
+767,Project for Strengthening Cadastral System in Nepal,,Korea International Cooperation Agency,Agriculture,Pipeline/identification,-,-,-,-
+768,Land Records Information Management System,,Asian Development Bank,Agriculture,Implementation,2012,2012,1340216,-
+769,TA-Building Climate Resilience of Watershed in Mountain Eco Region,2012-04-01T00:00:00,Asian Development Bank,Forestry,Implementation,2012,2012,-,-
+770,Building Climate Resilience of Watersheds in Mountain Eco-Regions,,Nordic Development Fund|Asian Development Bank,Forestry,Pipeline/identification,-,-,-,-
+771,"Safer Migration Project ( SaMi), Phase II",2013-07-17T00:00:00,Swiss Agency for Development and Cooperation,Other social infrastructure and services,Implementation,2013,2013,10060558,1007174
+772,School Sector Programme (School Sector Reform Programme)Cofinancing by Australia,,Asian Development Bank|AusAid,"Education, level unspecified",Implementation,2012,2012,3402088,3167427
+773,Chilime-Trishuli 220kv TL project; Trisuli 3B 220kv Substation Hub project;Dhunche Sub station under capacity augmentation of sub station project,,Kreditanstalt fÃ¼r Wiederaufbau|European Investment Bank,Energy generation and supply,Pipeline/identification,-,-,-,-
+774,Proposal on Acquisition and the use of Electronic Voting Machine (EVM) and other supports in the future Elections in Nepal,,India,"Government and civil society, general",Pipeline/identification,-,-,-,-
+775,Electoral Support Project Phase II,2012-11-29T00:00:00,Department for International Development|United Nations Development Programme|European Union,"Government and civil society, general",Implementation,2012,2013,16177649,5399438
+776,Tanahu Hydropower Project,2013-03-13T00:00:00,Japan International Cooperation Agency|Nepal Electricitiy Authority|European Investment Bank|Asian Development Bank,Energy generation and supply,Implementation,2012,2013,487008094,-
+777,Kali Gandaki A Hydropower Plant Rehabilitation Project,2013-07-08T00:00:00,International Development Association,Energy generation and supply,Pipeline/identification,2013,2013,28157231,-
+778,Development policy credit - DPC,,International Development Association,"Government and civil society, general",Pipeline/identification,-,-,-,-
+779,Sustainable Urban Environment (IUD-II),2013-02-04T00:00:00,Practical Action,Water supply and sanitation,Implementation,2013,2013,-,-
+780,Making Markets for the Poor,2011-06-01T00:00:00,European Union,Other social infrastructure and services,Implementation,2011,2011,-,-
+781,Churiya Livelihood Program,2007-07-01T00:00:00,Denmark,Forestry|Other social infrastructure and services,Implementation,2006,2013,6610798,5414664
+782,Jaladh Integrated Watershed and Natural Resource Management Program,2008-07-01T00:00:00,Denmark,Other social infrastructure and services,Completion,2007,2010,2007177,1918748
+783,Janajati social and economic empowerment project,2007-02-01T00:00:00,European Union,Other social infrastructure and services,Completion,2007,2013,1264946,1203122
+784,Empowering Women in the Churia to Improve their Livelihoods (SHAKTI) Project,2008-01-01T00:00:00,Austria|European Union|Care Austria|CARE Nepal,Forestry|Other social infrastructure and services|Other social infrastructure and services,Completion,2008,2012,1686757,1512923
+785,Women and Youth as Pillars of Sustainable Peace (WYPSP),2008-01-01T00:00:00,European Union|Care International UK|CARE Nepal,"Conflict prevention and resolution, peace and security|Other social infrastructure and services",Completion,2008,2012,1175513,1057576
+786,Safe Passage,2008-01-01T00:00:00,European Union|CARE Nepal,Other social infrastructure and services,Completion,2008,2012,1155189,1039776
+787,Women Empowerment for transformation in Churia Area Project (SAKCHHAM II),2010-01-01T00:00:00,Austria|Care Austria,Other social infrastructure and services|Other social infrastructure and services,Completion,2009,2010,521248,521248
+788,Building community resilience to disasters in Far Western Nepal (SAMRAKSHAN),2011-04-01T00:00:00,Austria|European Union|Care Austria,"Agriculture|Conflict prevention and resolution, peace and security",Completion,2011,2011,649246,649246
+789,"Enhancing Mobile Population Access to HIV/AIDs Service, Information & Support (EMPHASIS)",2009-08-02T00:00:00,CARE Nepal,Other social infrastructure and services|Other social infrastructure and services,Implementation,2009,2012,1531592,812060
+790,Promotion and Protection of Rights of Nepali Migrant Women (Shuva Yatra),2011-01-01T00:00:00,Austria|European Union|Care Austria|CARE Nepal,Other social infrastructure and services|Other social infrastructure and services,Implementation,2010,2012,919441,805678
+791,Strengthening State and Civil Society Capacity for Comprehensive Response to HIV/AIDS (Bharosa),2011-01-01T00:00:00,Denmark,Other social infrastructure and services|Other social infrastructure and services,Implementation,2010,2012,921166,810789
+792,"Strengthening Approaches for Maximizing Maternal, Neonatal, and Reproductive Health (SAMMAN)",2011-12-01T00:00:00,CARE Nepal,Health|Other social infrastructure and services,Implementation,2011,2012,1183332,816513
+793,Integrated Area Development Programme,2010-06-01T00:00:00,World Vision International,"Health|Education, level unspecified|Other social infrastructure and services|Agriculture|Agriculture|General budget support|Water supply and sanitation|Other social infrastructure and services",Implementation,2010,2013,23081916,17470148
+794,The MEDIA (Media Empowerment for Democratic Information Access) Initiative,,U.S. Department of States,Communications,Implementation,2010,2010,707773,-
+795,Supporting the Role of Schools in Disaster Risk Reduction (SRSD),2010-09-15T00:00:00,Reach Out To Asia (ROTA),"Education, level unspecified|Unallocated/ unspecified",Implementation,2010,2011,497653,497653
+796,Managing Risk through Economic Development,2013-05-01T00:00:00,Margaret A. Cargill Foundation,"Agriculture|Government and civil society, general|Other social infrastructure and services",Pipeline/identification,2012,2013,22777,23962
+797,The Holistic Community development Project in Humla,2010-05-25T00:00:00,The ISIS Foundation,Other|Water supply and sanitation|Health|General budget support,Implementation,2010,2012,445702,467737
+798,Child Protection and Development Project,2010-05-25T00:00:00,The ISIS Foundation,"Education, level unspecified|Health",Implementation,2010,2013,1045138,638395
+799,Building Local Democracy (BLD),2010-12-01T00:00:00,Action Aid International Nepal,Other,Pipeline/identification,2010,2010,-,-
+800,Quality Education through Disaster Resilient Schools in Kailali District,2010-09-01T00:00:00,Reach Out To Asia (ROTA),"Education, level unspecified",Pipeline/identification,2010,2010,-,-
+801,Saksham,,ActionAid International (AAI),Other social infrastructure and services,Pipeline/identification,-,-,-,-
+802,Deepening Democracy Project (DD),2011-01-01T00:00:00,Danida HUGOU,"Government and civil society, general",Pipeline/identification,2011,2011,-,-
+803,Kamaiya Housing Project,2011-07-16T00:00:00,Action Aid International Nepal,Other social infrastructure and services,Pipeline/identification,2011,2011,-,-
+804,Building Disaster Resilient Communities(BDRC),2012-04-01T00:00:00,Department for International Development,"Education, level unspecified",Pipeline/identification,2012,2012,-,-
+805,Poverty Alleviation Programme,2010-12-01T00:00:00,ActionAid International (AAI),"Other social infrastructure and services|Other|Agriculture|Agriculture|Education, level unspecified",Pipeline/identification,2010,2010,-,-
+806,Rights-based Child-Centred Community Development (CCCD)in Nepal,2010-07-01T00:00:00,Plan Nepal,"Other social infrastructure and services|Unallocated/ unspecified|Education, level unspecified|Other social infrastructure and services|Health",Implementation,2010,2013,73889263,19064936
+807,Enhancing Capacity of DoCPR,2012-08-08T00:00:00,Department for International Development,"Government and civil society, general",Implementation,2012,2012,-,-
+808,SASEC Sub-Regional Trade Facilitation Program,2013-02-25T00:00:00,Asian Development Bank,Business and other services,Implementation,2013,2013,15493707,8263310
+809,"A Collaborative Approach Promoting Child Rights, Non-discrimination and Child Participation",2013-02-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2013,2013,-,-
+810,Child Sensitive Social Protection,2011-01-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2011,2011,-,-
+811,Creating Protective Environment for Children( CPEC),2011-01-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2011,2011,-,-
+812,"Integrated Maternal Newborn, Child Health and Nutrition Project",2012-05-01T00:00:00,Save the Children,Health,Implementation,2012,2012,-,-
+813,"""Partnering to Save Childrenâs and Mothersâ Lives Through Frontline Health Workers""",2012-02-01T00:00:00,Save the Children,Health,Implementation,2012,2012,-,-
+814,Common Approach To Sponsorship Funded Programming,,Save the Children,"Education, level unspecified",Implementation,-,-,-,-
+815,USIP Post Conflict Peacebuilding through dialogue in Education,2011-07-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2011,2011,-,-
+816,Norad Cooperation 2011-2014,2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+817,NORAD Extra Fund (Quality Primary Education and SZOP in Nepal),2013-02-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+818,"Nepal Strategic Program Framework on Education, Protection and Livelihoods â SC Italy -2013-2015",2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+819,Npl_Reintegration_of_CAAFAG_11-13,,Save the Children,Other social infrastructure and services,Implementation,-,-,-,-
+820,Livelihood Support for Vulnerable and Excluded Communities,2012-06-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2012,2012,-,-
+821,Community Based Micro Health Insurance Project,2010-08-01T00:00:00,Save the Children,Health,Implementation,2010,2010,-,-
+822,Developing sustainable models of ECCD,2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+823,Heart in ECD,2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+824,Quality education project in pre- primary and primary schools in Eastern Nepal,2011-04-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2011,2011,-,-
+825,NPL SCK Literacy Boost (Samsung),2012-09-01T00:00:00,Gaja Youth Club,"Education, level unspecified",Implementation,2012,2012,-,-
+826,Agricultire and Nutrition Extension Project (ANEP),2012-03-01T00:00:00,Save the Children,Agriculture,Implementation,2012,2012,-,-
+827,Strengthen child friendly library in schools,2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+828,Heart in ECD 2013,2011-09-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2011,2011,-,-
+829,Developing sustainable models of ECCD 2013,2012-04-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2012,2012,-,-
+830,"Improving Monitoring, Evaluation, Accountability and Learning (MEAL)",2013-01-01T00:00:00,Save the Children,Unallocated/ unspecified,Implementation,2013,2013,-,-
+831,WFP Commodity values for Nepal (GIK),2013-08-01T00:00:00,Save the Children,Agriculture,Implementation,2013,2013,-,-
+832,Safer Schools and Communities through Child Ceretered Disaster Risk Reduction Initiatives,2011-01-01T00:00:00,Save the Children,Other,Implementation,2011,2011,-,-
+833,Terai Arc Landscape (TAL) Program,2011-07-01T00:00:00,"World Wildlife Fund, Inc., Nepal Program",Forestry,Implementation,2011,2013,2964554,2878022
+834,Sacred Himalayan Landscape(SHL)Program,2011-07-01T00:00:00,"World Wildlife Fund, Inc., Nepal Program",Forestry,Implementation,2011,2013,1255891,1270225
+835,National Conservation Priority Areas (NCPA),2011-07-01T00:00:00,"World Wildlife Fund, Inc., Nepal Program",Forestry,Implementation,2011,2013,626452,2680927
+836,Koshi River Basin Management (KRBM) Program,2010-07-01T00:00:00,"World Wildlife Fund, Inc., Nepal Program",Water supply and sanitation,Implementation,2010,2013,1877906,923512
+837,I have a voice: women advocating for development in Nepal,2011-09-01T00:00:00,Mission East,Other social infrastructure and services,Implementation,2011,2011,-,-
+838,Economic growth for social justice: supporting non-timber forest product (NTFP)trade and business development in Karnali,2012-04-06T00:00:00,Mission East,Forestry,Implementation,2012,2012,-,-
+839,"Empowering women in humla and mugu, Nepal",2013-01-15T00:00:00,Mission East,Other social infrastructure and services,Implementation,2013,2013,-,-
+840,"Bringing inclusive CBDRR models into remote communities of Karnali, Nepal",2013-03-01T00:00:00,Mission East,General environmental protection,Implementation,2013,2013,-,-
+841,Expansion of Malaria Prevention and Control to At-Risk Populations in Nepal,2007-11-02T00:00:00,Population Services International Nepal,Health,Implementation,2007,2013,2289244,999112
+842,Reducing the impact of HIV on men who have sex with men and transgender populations in Nepal,2011-01-01T00:00:00,Population Services International Nepal,Health,Completion,2011,2013,1431535,252473
+843,Water Guard - Safe Water System (SWS),2010-01-01T00:00:00,Population Services International Nepal,Water supply and sanitation|Health,Implementation,2010,2012,79529,72363
+844,Women Health Project in Nepal,2009-01-01T00:00:00,Population Services International Nepal,Health,Implementation,2009,2013,15575304,15579027
+845,Strengthening the Sustainability of the Physical Rehabilitation Sector for Greater Access to Services in Nepal,2012-02-01T00:00:00,Handicap International Nepal,Health,Implementation,2012,2012,244134,244134
+846,"Integrated Disaster Risk Reduction, and Safe Migration Programmes in Nepal (Second phase)",2012-01-01T00:00:00,Dan Church Aid,Agriculture|Other social infrastructure and services,Implementation,2012,2013,-,81362
+847,"Promotion of livelihood and sustainable food security, safe migration and participation in accountable governance",,Dan Church Aid,Agriculture|Other social infrastructure and services|Other social infrastructure and services,Pipeline/identification,-,-,-,-
+848,Minimization of unsafe and forced migration among the vulnerable women (potential and returnees) of suburbs of Kathmandu district (7 VDC).,2012-12-01T00:00:00,AWO International,Other social infrastructure and services,Implementation,2012,2012,-,-
+849,Community based Management of Acute Malnutrition (CMAM),2012-06-01T00:00:00,Action Contre La Faim,Health,Implementation,2012,2013,328842,104282
+850,Employment Fund Project,2011-09-18T00:00:00,Swiss Agency for Development and Cooperation,"Education, level unspecified",Implementation,2011,2011,3424658,-
+851,Promoting Reproductive Health Rights and Justice in Nepal,2013-01-07T00:00:00,Center for Reproductive Rights,Other social infrastructure and services,Implementation,2012,2013,522141,-
+852,Nutrition and Micronutrient Support Program,2013-02-17T00:00:00,Micronutrient Initiative,Unspecified,Implementation,2013,2013,1003503,68230
+853,Sustainable Agriculture based Livelihoods in Mountain Environments (SALME),2013-06-14T00:00:00,Norlha-Helping People in the Himalayas,Unspecified,Pipeline/identification,2013,2013,794319,6045
+854,Health and Nutrition,,Nepal Youth Foundation,Unspecified,Pipeline/identification,-,-,-,-
+855,Capacity Building and Livelihood,,Nepal Youth Foundation,Other social infrastructure and services,Pipeline/identification,-,-,-,-
+856,Education Support,,Nepal Youth Foundation,Unspecified,Pipeline/identification,-,-,-,-
+857,Counseling and Training,,Nepal Youth Foundation,Other social infrastructure and services,Pipeline/identification,-,-,-,-
+858,"Peace Rights and Governance Program, Phase Iv (2014-18)",,Denmark,Unallocated/ unspecified,Pipeline/identification,-,-,-,-
+859,SASEC Road Connectivity Project,,Asian Development Bank,Transport and storage,Pipeline/identification,-,-,-,-
+860,Reducing risks of sexual abuse and exploitation among at-risk and vulnerable children,2012-07-20T00:00:00,ECPAT Luxembourg Nepal,Other social infrastructure and services,Implementation,2012,2012,-,-
+861,Nepal National Armed Police Academy,,China,"Government and civil society, general",Implementation,2013,2013,33698639,""
+862,"""Project for Maternal and Child health care in West Terai Region""",2010-10-29T00:00:00,AMDA MINDS Nepal,Health,Implementation,2010,2010,-,-
+863,Support to discharge of disqualified maois combattans,,Norway,"Conflict prevention and resolution, peace and security",Implementation,-,-,-,-
+864,Nepal Children's Scholarship Endowment Program,2013-01-01T00:00:00,Save the Children,"Education, level unspecified",Implementation,2013,2013,-,-
+865,Protection of Children in Brick Kiln,2011-11-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2011,2011,-,-
+866,Tackling HRH Crisis in Nepal through Informed Policy Decisions and Actions,2011-01-01T00:00:00,Save the Children,Health,Implementation,2011,2011,-,-
+867,Saving newborn lives 3: Bending the curve Accelerating progress in Newborn Survival and Health,,Save the Children,Other social infrastructure and services,Implementation,-,-,-,-
+868,Npl_GHRF_Safe Communities_12-14,2012-01-01T00:00:00,Save the Children,Other social infrastructure and services,Implementation,2012,2012,-,-
+869,Youth Save Project,2011-12-31T00:00:00,Save the Children,"Government and civil society, general",Implementation,2011,2011,-,-
+870,Livelihood and Nutrition Project,2013-01-01T00:00:00,Save the Children,General budget support,Implementation,2013,2013,-,-
+871,NPL SCK Rewrite the Future 2013,2013-01-01T00:00:00,Gaja Youth Club,"Education, level unspecified",Implementation,2013,2013,-,-
+872,Food security livelihood and climate change project,2013-08-01T00:00:00,Save the Children,Agriculture,Implementation,2013,2013,-,-
+873,Second Phase of Decentralized Rural Infrastructure and Livelihood Project.,2012-02-01T00:00:00,World Food Programme|OPEC Fund for Inernational Development|Swiss Agency for Development and Cooperation|Asian Development Bank,Other,Implementation,2012,2012,-,-
